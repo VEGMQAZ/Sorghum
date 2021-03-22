@@ -1,0 +1,614 @@
+rnd-6_family-1762#LTR/Copia	gb|DQ768252.1|	Saccharum officinarum cultivar SP80-32280 Ty1-copia retrotransposon, partial sequence	88.889	126	8	5	4	124	129	5	7.93e-37	150
+rnd-5_family-12#LTR/Gypsy	gb|MW008479.1|	Zea mays transposons Ac and fAc, complete sequence; and disrupted Myb-like transcription factor P1 (P1) gene, P1-wwB54 allele, partial sequence	97.500	40	1	0	766	805	767	728	1.70e-10	69.4
+rnd-5_family-12#LTR/Gypsy	gb|U68404.1|	Zea mays retrotransposon Huck-2 5' LTR and primer binding site DNA sequence	100.000	29	0	0	766	794	1616	1644	4.76e-06	54.7
+rnd-5_family-449#LTR/Gypsy	tpg|BK000929.1|	TPA_inf: Oryza sativa transposon Rim2-M344, complete sequence	73.013	1334	342	16	2797	4121	28580	29904	2.58e-147	523
+rnd-5_family-449#LTR/Gypsy	tpg|BK000374.1|	TPA_exp: Oryza sativa transposon Rim2-M93, complete sequence	72.894	1092	265	27	3047	4122	23098	22022	2.71e-112	407
+rnd-1_family-130#LTR/Gypsy	gb|AY129008.1|	Zea mays CRM centromeric retrotranposon, complete sequence	87.067	866	67	43	1266	2086	4734	5599	0.0	966
+rnd-1_family-130#LTR/Gypsy	gb|AY129008.1|	Zea mays CRM centromeric retrotranposon, complete sequence	80.969	846	118	37	461	1264	3354	4198	4.69e-180	630
+rnd-1_family-130#LTR/Gypsy	gb|AY129008.1|	Zea mays CRM centromeric retrotranposon, complete sequence	83.065	372	53	7	44	405	1589	1960	1.91e-89	329
+rnd-1_family-130#LTR/Gypsy	gb|AY495546.1|	Uniola paniculata centromeric retrotransposon gag-pol polyprotein pseudogene, partial sequence	84.412	680	69	33	1377	2021	2	679	0.0	654
+rnd-1_family-130#LTR/Gypsy	gb|AY040832.1|	Hordeum vulgare Ty3/gypsy retrotransposon cereba gag-pol polyprotein gene, complete cds	80.115	870	124	45	1266	2088	4348	5215	0.0	634
+rnd-1_family-130#LTR/Gypsy	gb|AY040832.1|	Hordeum vulgare Ty3/gypsy retrotransposon cereba gag-pol polyprotein gene, complete cds	80.000	870	125	45	1266	2088	12159	13026	6.06e-179	627
+rnd-1_family-130#LTR/Gypsy	gb|AY495544.1|	Avena sativa centromeric retrotransposon gag-pol polyprotein pseudogene, partial sequence	79.452	657	97	38	1399	2019	204	858	3.92e-126	451
+rnd-1_family-130#LTR/Gypsy	gb|AY846846.1|	Pennisetum alopecuroides centromeric retrotransposon gag-pol polyprotein gene, partial cds	80.597	536	77	22	758	1266	4	539	3.11e-107	388
+rnd-1_family-130#LTR/Gypsy	gb|AY845397.1|	Pennisetum alopecuroides centromeric retrotransposon gag-pol polyprotein gene, partial cds	79.264	516	80	20	776	1266	1	514	1.14e-91	337
+rnd-1_family-130#LTR/Gypsy	gb|AY849781.1|	Pennisetum alopecuroides centromeric retrotransposon nonfunctional gag-pol polyprotein gene, partial sequence	83.390	295	22	23	1266	1536	454	745	1.53e-65	250
+rnd-1_family-130#LTR/Gypsy	gb|AY846847.1|	Setaria pumila centromeric retrotransposon gag-pol polyprotein gene, partial cds	91.111	90	7	1	2001	2089	1	90	9.70e-28	124
+rnd-1_family-130#LTR/Gypsy	gb|JN205147.1|	Zea mays subsp. parviglumis isolate JSGyLOS_109 genomic sequence	79.710	138	22	6	1503	1635	514	650	1.63e-20	100
+rnd-1_family-130#LTR/Gypsy	gb|JN205153.1|	Zea mays subsp. parviglumis isolate USDA_PI566686 genomic sequence	79.054	148	23	8	1499	1640	540	685	1.63e-20	100
+rnd-1_family-130#LTR/Gypsy	gb|JN205157.1|	Zea mays subsp. mexicana isolate CIMMYT_11374 genomic sequence	79.710	138	22	6	1503	1635	543	679	1.63e-20	100
+rnd-1_family-130#LTR/Gypsy	gb|JN205146.1|	Zea mays subsp. parviglumis isolate JSG_197 genomic sequence	79.710	138	22	6	1503	1635	543	679	1.63e-20	100
+rnd-1_family-130#LTR/Gypsy	gb|JN205140.1|	Zea mays subsp. mays isolate GUA14 MITE Tourist, complete sequence	79.710	138	22	6	1503	1635	522	658	1.63e-20	100
+rnd-1_family-130#LTR/Gypsy	gb|JN205128.1|	Zea mays subsp. mays isolate URG II retrotransposon Hopscotch, complete sequence	79.710	138	22	6	1503	1635	522	658	1.63e-20	100
+rnd-1_family-130#LTR/Gypsy	gb|JN205134.1|	Zea mays subsp. mays isolate GUA131 retrotransposon Hopscotch, complete sequence	79.710	138	22	6	1503	1635	522	658	1.63e-20	100
+rnd-1_family-130#LTR/Gypsy	gb|JN205156.1|	Zea mays subsp. parviglumis isolate Wilkes_Site6 retrotransposon Hopscotch, complete sequence	79.710	138	22	6	1503	1635	522	658	1.63e-20	100
+rnd-1_family-130#LTR/Gypsy	gb|JN205138.1|	Zea mays subsp. mays isolate APC13 retrotransposon Hopscotch, complete sequence	79.710	138	22	6	1503	1635	522	658	1.63e-20	100
+rnd-1_family-130#LTR/Gypsy	gb|JN205135.1|	Zea mays subsp. mays isolate CHH160 retrotransposon Hopscotch, complete sequence	79.710	138	22	6	1503	1635	522	658	1.63e-20	100
+rnd-1_family-130#LTR/Gypsy	gb|JN205126.1|	Zea mays subsp. mays isolate PI213793 retrotransposon Hopscotch, complete sequence	79.710	138	22	6	1503	1635	522	658	1.63e-20	100
+rnd-1_family-130#LTR/Gypsy	gb|JN205139.1|	Zea mays subsp. mays isolate SAN329 retrotransposon Hopscotch, complete sequence	79.710	138	22	6	1503	1635	522	658	1.63e-20	100
+rnd-1_family-130#LTR/Gypsy	gb|JN205133.1|	Zea mays subsp. mays isolate CHI349 retrotransposon Hopscotch, complete sequence	79.710	138	22	6	1503	1635	522	658	1.63e-20	100
+rnd-1_family-130#LTR/Gypsy	gb|JN205131.1|	Zea mays subsp. mays isolate PUE32 retrotransposon Hopscotch, complete sequence	78.289	152	25	8	1503	1647	543	693	5.88e-20	99.0
+rnd-1_family-130#LTR/Gypsy	gb|JN205150.1|	Zea mays subsp. parviglumis isolate JSGyLOS_161 retrotransposon Hopscotch, complete sequence	78.289	152	25	8	1503	1647	543	693	5.88e-20	99.0
+rnd-1_family-130#LTR/Gypsy	gb|JN205129.1|	Zea mays subsp. mays isolate MEX48 retrotransposon Hopscotch, complete sequence	78.289	152	25	8	1503	1647	543	693	5.88e-20	99.0
+rnd-1_family-130#LTR/Gypsy	gb|JN205148.1|	Zea mays subsp. parviglumis isolate JSG_378 genomic sequence	78.873	142	25	4	1503	1640	546	686	2.11e-19	97.1
+rnd-1_family-130#LTR/Gypsy	gb|JN205154.1|	Zea mays subsp. parviglumis isolate Benz_967 genomic sequence	78.873	142	25	4	1503	1640	546	686	2.11e-19	97.1
+rnd-1_family-130#LTR/Gypsy	gb|JN205145.1|	Zea mays subsp. parviglumis isolate CIMMYT_8783 genomic sequence	77.536	138	25	6	1503	1635	544	680	1.65e-15	84.2
+rnd-1_family-130#LTR/Gypsy	gb|JN205130.1|	Zea mays subsp. mays isolate SIN2 retrotransposon Hopscotch, complete sequence	77.536	138	25	6	1503	1635	544	680	1.65e-15	84.2
+rnd-1_family-130#LTR/Gypsy	gb|JN205144.1|	Zea mays subsp. parviglumis isolate JSGyMAS_401 retrotransposon Hopscotch, complete sequence	77.536	138	25	6	1503	1635	544	680	1.65e-15	84.2
+rnd-1_family-130#LTR/Gypsy	gb|JN205136.1|	Zea mays subsp. mays isolate MAG450 retrotransposon Hopscotch, complete sequence	77.536	138	25	6	1503	1635	545	681	1.65e-15	84.2
+rnd-1_family-130#LTR/Gypsy	gb|JN205132.1|	Zea mays subsp. mays isolate VEN453 retrotransposon Hopscotch, complete sequence	77.536	138	25	6	1503	1635	544	680	1.65e-15	84.2
+rnd-1_family-130#LTR/Gypsy	gb|JN205127.1|	Zea mays subsp. mays isolate OAX68 retrotransposon Hopscotch, complete sequence	77.536	138	25	6	1503	1635	544	680	1.65e-15	84.2
+rnd-1_family-130#LTR/Gypsy	gb|JN205141.1|	Zea mays subsp. mays isolate OAX70 retrotransposon Hopscotch, complete sequence	77.536	138	25	6	1503	1635	544	680	1.65e-15	84.2
+rnd-6_family-348#Unknown	emb|X07908.1|	Spinach chloroplast DNA inversion containing ORF 2131	82.715	943	105	28	1258	2186	6818	5920	0.0	785
+rnd-6_family-348#Unknown	emb|X07908.1|	Spinach chloroplast DNA inversion containing ORF 2131	83.068	880	128	9	2305	3176	5855	4989	0.0	780
+rnd-6_family-348#Unknown	emb|X07908.1|	Spinach chloroplast DNA inversion containing ORF 2131	86.563	387	37	3	3167	3544	4605	4225	5.17e-114	412
+rnd-6_family-348#Unknown	emb|X07908.1|	Spinach chloroplast DNA inversion containing ORF 2131	88.202	178	14	7	1032	1206	7004	6831	9.42e-52	206
+rnd-6_family-348#Unknown	dbj|AB124642.1|	Secale cereale Revolver-4 pseudogene for transposase	96.341	82	2	1	2300	2380	657	738	4.51e-30	134
+rnd-6_family-348#Unknown	dbj|DD135913.1|	A novel transposon-like element	96.341	82	2	1	2300	2380	657	738	4.51e-30	134
+rnd-6_family-348#Unknown	emb|CS029825.1|	Sequence 4 from Patent EP1510574	96.341	82	2	1	2300	2380	657	738	4.51e-30	134
+rnd-6_family-348#Unknown	gb|FJ911310.1|	Zea mays subsp. mays Mu tranposon insertion Mu1009875 flanking sequence	100.000	44	0	0	448	491	91	134	1.66e-14	82.4
+rnd-1_family-211#LTR/Gypsy	gb|U32150.1|	Pennisetum glaucum Pgr-1 retroelement, partial LTR sequence	93.182	44	3	0	1847	1890	335	378	1.52e-09	65.8
+rnd-3_family-212#Unknown	gb|JQ314447.1|	Tripsacum dactyloides Tac7077 (tac7077) gene, partial cds; ubiquitin conjugating enzyme 2 (uce2) gene, complete cds; transposon Mu-like and retrotransposon TDRE3, complete sequence; and putative pectin methylesterase gene, partial cds	87.379	103	10	3	1055	1157	16122	16023	9.43e-25	115
+rnd-3_family-212#Unknown	gb|U32150.1|	Pennisetum glaucum Pgr-1 retroelement, partial LTR sequence	85.333	75	10	1	1081	1155	343	416	4.45e-13	76.8
+rnd-1_family-470#rRNA	emb|AJ309824.2|	Zea mays 25S rRNA gene and transposon-like sequence	89.220	1308	104	26	2912	4196	1	1294	0.0	1604
+rnd-1_family-470#rRNA	gb|JX012391.1|	Brassica napus isolate T0063 transposon piggyBac, complete sequence	93.431	274	18	0	1239	1512	235	508	1.74e-112	407
+rnd-1_family-470#rRNA	gb|HM014434.1|	Ipomoea triloba internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence	95.706	163	7	0	3261	3423	162	324	3.98e-69	263
+rnd-1_family-470#rRNA	gb|HM014431.1|	Ipomoea cairica internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence	94.186	172	9	1	3253	3423	176	347	1.43e-68	261
+rnd-1_family-470#rRNA	gb|HM014433.1|	Ipomoea batatas internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence	95.652	161	7	0	3263	3423	164	324	5.14e-68	259
+rnd-1_family-470#rRNA	gb|HM014432.1|	Ipomoea carnea internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence	95.652	161	7	0	3263	3423	188	348	5.14e-68	259
+rnd-1_family-470#rRNA	gb|HM014436.1|	Ipomoea quamoclit internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence	95.031	161	8	0	3263	3423	162	322	2.39e-66	254
+rnd-1_family-470#rRNA	gb|HM014430.1|	Ipomoea nil cultivar Ipomee Tricolore Candy Pink internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence	95.031	161	8	0	3263	3423	163	323	2.39e-66	254
+rnd-1_family-470#rRNA	gb|HM014429.1|	Ipomoea purpurea cultivar Split Personality internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence	95.031	161	8	0	3263	3423	163	323	2.39e-66	254
+rnd-1_family-470#rRNA	gb|HM014428.1|	Ipomoea purpurea cultivar Light Blue Star internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence	95.031	161	8	0	3263	3423	163	323	2.39e-66	254
+rnd-1_family-470#rRNA	gb|HM014427.1|	Ipomoea purpurea cultivar Kniolas Black Knight internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence	95.031	161	8	0	3263	3423	163	323	2.39e-66	254
+rnd-1_family-470#rRNA	gb|HM014423.1|	Ipomoea purpurea internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence	95.031	161	8	0	3263	3423	163	323	2.39e-66	254
+rnd-1_family-470#rRNA	gb|HM014425.1|	Ipomoea nil internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence	95.031	161	8	0	3263	3423	164	324	2.39e-66	254
+rnd-1_family-470#rRNA	gb|HM014424.1|	Ipomoea indica internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence	95.031	161	8	0	3263	3423	164	324	2.39e-66	254
+rnd-1_family-470#rRNA	gb|HM014426.1|	Ipomoea alba internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence	95.031	161	8	0	3263	3423	167	327	2.39e-66	254
+rnd-1_family-470#rRNA	gb|HM014435.1|	Ipomoea coccinea internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence	95.031	161	8	0	3263	3423	166	326	2.39e-66	254
+rnd-1_family-470#rRNA	gb|HM014437.1|	Ipomoea x sloteri 5.8S ribosomal RNA gene and internal transcribed spacer 2, partial sequence	93.846	130	8	0	3294	3423	1	130	4.09e-49	196
+rnd-6_family-2212#Unknown	dbj|LC004716.1|	Volvox carteri f. nagariensis DNA, strain: NIES 398	76.675	403	73	8	243	627	1958	1559	2.43e-51	204
+rnd-6_family-2212#Unknown	dbj|LC004715.1|	Volvox carteri f. nagariensis DNA, strain: NIES 397	76.675	403	73	8	243	627	1958	1559	2.43e-51	204
+rnd-6_family-2212#Unknown	dbj|LC004714.1|	Volvox carteri f. nagariensis DNA, strain: UTEX 1886	76.675	403	73	8	243	627	1964	1565	2.43e-51	204
+rnd-6_family-2212#Unknown	dbj|LC004713.1|	Volvox carteri f. nagariensis DNA, strain: EVE	76.675	403	73	8	243	627	2574	2175	2.43e-51	204
+rnd-6_family-2403#Unknown	gb|AF050455.1|	Zea mays gypsy/Ty3-type retrotransposon Tekay, complete sequence	78.472	144	21	9	722	858	2851	2711	5.31e-16	86.1
+rnd-5_family-1509#DNA/hAT-Ac	gb|DQ324364.1|	Zea mays transposon TCUP transposase gene, complete cds	87.719	114	8	5	3192	3301	3672	3783	3.55e-29	130
+rnd-6_family-677#DNA/PIF-Harbinger	gb|MH727589.1|	Oryza sativa Indica Group transposon Jing transposase gene, complete cds	78.882	1359	239	27	1816	3159	1956	3281	0.0	878
+rnd-6_family-8602#DNA/hAT-Ac	gb|AY644706.1|	Saccharum officinarum Ac-like transposon transposase gene, partial cds	94.118	408	24	0	1472	1879	2	409	2.63e-179	628
+rnd-6_family-498#LTR/Copia	gb|AF050436.1|	Zea mays retrotransposon Fourf 3' LTR, partial sequence	89.552	134	13	1	373	505	585	718	6.72e-41	169
+rnd-5_family-184#rRNA	emb|AJ309824.2|	Zea mays 25S rRNA gene and transposon-like sequence	97.286	2174	54	5	668	2839	8461	10631	0.0	3683
+rnd-5_family-184#rRNA	emb|AJ309824.2|	Zea mays 25S rRNA gene and transposon-like sequence	96.702	667	18	3	1	667	1295	1957	0.0	1107
+rnd-5_family-184#rRNA	gb|FJ909324.1|	Zea mays subsp. mays Mu tranposon insertion Mu1005545 flanking sequence	95.238	189	9	0	2651	2839	235	47	2.12e-80	300
+rnd-5_family-184#rRNA	gb|FJ911133.1|	Zea mays subsp. mays Mu tranposon insertion Mu1009465 flanking sequence	92.969	128	8	1	144	270	372	499	6.20e-46	185
+rnd-5_family-184#rRNA	gb|FJ910105.1|	Zea mays subsp. mays Mu tranposon insertion Mu1007856 flanking sequence	96.296	54	2	0	2178	2231	1	54	5.00e-17	89.8
+rnd-6_family-4554#LTR/Copia	dbj|AB210221.1|	Setaria italica GBSS1 gene, transposable element TSI-9 in exon 10	75.108	462	102	12	2392	2846	3940	4395	1.68e-51	204
+rnd-6_family-9718#Unknown	gb|HQ134767.1|	Zea mays Mu transposon insertion mu1021692 flanking sequence	92.857	42	2	1	609	650	1	41	3.29e-08	60.2
+rnd-1_family-212#Unknown	gb|AY355293.1|	Oryza sativa (japonica cultivar-group) Squiq LTR retrotransposon complete sequence	100.000	34	0	0	808	841	5152	5185	2.42e-09	63.9
+rnd-6_family-169#DNA/CMC-EnSpm	gb|FJ627006.1|	Zea mays cultivar A654 transposon Misfit putative TNP2-like protein and putative TNP1-like protein genes, complete cds; and disrupted dzs10 gene, partial sequence	85.529	463	64	3	1489	1950	3444	3904	1.73e-139	496
+rnd-6_family-1168#LTR/Copia	tpg|BK000331.1|	TPA_exp: Oryza sativa (indica cultivar-group) transposon Rim2-M51 transposase gene, complete cds	88.961	154	11	5	298	447	609	760	3.27e-47	189
+rnd-1_family-555#LTR/Gypsy	ref|XM_026026948.1|	PREDICTED: Oryza sativa Japonica Group transposon Ty3-G Gag-Pol polyprotein (LOC4342909), mRNA	77.123	1884	404	26	5	1873	4403	2532	0.0	1325
+rnd-4_family-1391#DNA/CMC-EnSpm	gb|MK288027.1|	Zea mays subsp. mays transposon CACTA, complete sequence; and ufo1 (ufo1) gene, ufo1-1 allele, complete cds	78.999	1519	265	39	327	1821	2845	4333	0.0	1062
+rnd-6_family-496#LTR/Copia	gb|JN786875.1|	Saccharum hybrid cultivar SP80-3280 isolate TE137 transposon hopscotch-like, complete sequence	85.172	1686	221	19	133	1803	1039	2710	0.0	1733
+rnd-1_family-438#LTR/Copia	gb|JQ314447.1|	Tripsacum dactyloides Tac7077 (tac7077) gene, partial cds; ubiquitin conjugating enzyme 2 (uce2) gene, complete cds; transposon Mu-like and retrotransposon TDRE3, complete sequence; and putative pectin methylesterase gene, partial cds	100.000	28	0	0	732	759	37046	37019	3.02e-06	52.8
+rnd-5_family-454#LTR/Copia	ref|XM_020545790.3|	PREDICTED: Zea mays retrovirus-related Pol polyprotein from transposon RE1 (LOC103642667), mRNA	74.883	426	89	16	784	1200	1600	2016	1.27e-45	183
+rnd-1_family-242#LTR/Gypsy	gb|MW008479.1|	Zea mays transposons Ac and fAc, complete sequence; and disrupted Myb-like transcription factor P1 (P1) gene, P1-wwB54 allele, partial sequence	92.857	42	1	1	279	318	767	726	2.10e-08	60.2
+rnd-1_family-242#LTR/Gypsy	gb|U68404.1|	Zea mays retrotransposon Huck-2 5' LTR and primer binding site DNA sequence	100.000	29	0	0	279	307	1616	1644	9.79e-07	54.7
+rnd-1_family-324#DNA/CMC-EnSpm	gb|FJ627006.1|	Zea mays cultivar A654 transposon Misfit putative TNP2-like protein and putative TNP1-like protein genes, complete cds; and disrupted dzs10 gene, partial sequence	79.376	1314	204	42	244	1535	3029	4297	0.0	909
+rnd-1_family-213#Unknown	gb|FJ908872.1|	Zea mays subsp. mays Mu tranposon insertion Mu1002252 flanking sequence	86.154	65	8	1	1027	1091	421	358	3.34e-11	69.4
+rnd-5_family-447#Unknown	emb|AJ309824.2|	Zea mays 25S rRNA gene and transposon-like sequence	75.782	735	105	49	783	1469	7766	7057	8.07e-87	320
+rnd-5_family-447#Unknown	emb|AJ309824.2|	Zea mays 25S rRNA gene and transposon-like sequence	75.136	736	108	51	783	1469	2694	1985	1.76e-78	292
+rnd-1_family-299#Unknown	gb|AY040833.1|	Hordeum vulgare Ty3/gypsy retrotransposon cereba gag-pol polyprotein gene, partial cds	78.212	179	22	14	82	253	1164	996	6.82e-21	99.0
+rnd-1_family-299#Unknown	gb|AY040832.1|	Hordeum vulgare Ty3/gypsy retrotransposon cereba gag-pol polyprotein gene, complete cds	77.901	181	25	14	82	253	507	333	6.82e-21	99.0
+rnd-1_family-299#Unknown	gb|AY040832.1|	Hordeum vulgare Ty3/gypsy retrotransposon cereba gag-pol polyprotein gene, complete cds	77.348	181	27	12	82	253	8317	8142	2.45e-20	97.1
+rnd-6_family-551#Unknown	gb|HQ140135.1|	Zea mays Mu transposon insertion mu1014080 flanking sequence	94.915	59	3	0	1311	1369	2	60	1.81e-18	93.5
+rnd-6_family-1360#LTR/Gypsy	gb|AY129008.1|	Zea mays CRM centromeric retrotranposon, complete sequence	90.667	75	7	0	929	1003	6578	6652	8.81e-21	100
+rnd-6_family-1360#LTR/Gypsy	gb|AY129008.1|	Zea mays CRM centromeric retrotranposon, complete sequence	96.154	52	2	0	1028	1079	6601	6652	2.47e-16	86.1
+rnd-5_family-117#Unknown	gb|AF050436.1|	Zea mays retrotransposon Fourf 3' LTR, partial sequence	90.299	134	12	1	367	499	585	718	4.93e-43	174
+rnd-4_family-17#Unknown	gb|AY728476.1|	Zea mays putative chalcone synthase C2-Idf-II (c2) gene, c2-Idf allele, complete cds; and putative chalcone synthase C2-Idf-I (c2) gene, c2-Idf allele, complete cds	74.611	193	45	4	335	527	1865	2053	1.79e-17	89.8
+rnd-1_family-497#LTR/Copia	gb|JN786875.1|	Saccharum hybrid cultivar SP80-3280 isolate TE137 transposon hopscotch-like, complete sequence	80.723	996	186	5	1	993	1198	2190	0.0	874
+rnd-6_family-1927#Unknown	gb|AY860968.1|	Sorghum bicolor yellow seed1 (y1) gene, y1-rr allele, complete cds; and y2 pseudogene, complete sequence	81.481	189	32	3	175	362	392	578	1.83e-36	152
+rnd-1_family-256#Unknown	gb|KF294020.1|	Zea mays cultivar OH7B transposon helitron Hel1-333 pseudogene, partial sequence	77.128	188	31	9	100	281	6572	6391	6.13e-21	100
+rnd-1_family-256#Unknown	gb|KF294019.1|	Zea mays cultivar Hp301 transposon helitron Hel1-333 pseudogene, partial sequence	77.128	188	31	9	100	281	7567	7748	6.13e-21	100
+rnd-5_family-137#Unknown	gb|AF206660.1|	Sorghum bicolor transposable element candystripe1, complete sequence	94.764	382	16	4	96	474	16605	16985	2.20e-169	593
+rnd-5_family-137#Unknown	gb|AF206660.1|	Sorghum bicolor transposable element candystripe1, complete sequence	94.776	268	11	3	497	761	16975	17242	1.84e-115	414
+rnd-5_family-137#Unknown	gb|AF206660.1|	Sorghum bicolor transposable element candystripe1, complete sequence	87.368	190	24	0	4	193	17247	17058	1.19e-57	222
+rnd-5_family-137#Unknown	gb|AF206660.1|	Sorghum bicolor transposable element candystripe1, complete sequence	93.204	103	7	0	1	103	16265	16367	4.42e-37	154
+rnd-4_family-602#Unknown	tpg|BK000373.1|	TPA_exp: Oryza sativa transposon Rim2-M91, complete sequence	88.503	748	72	11	5	746	31324	30585	0.0	894
+rnd-4_family-602#Unknown	tpg|BK000373.1|	TPA_exp: Oryza sativa transposon Rim2-M91, complete sequence	89.313	262	24	4	5	264	30840	30581	2.41e-89	327
+rnd-4_family-602#Unknown	tpg|BK000373.1|	TPA_exp: Oryza sativa transposon Rim2-M91, complete sequence	86.972	284	29	6	465	746	31349	31072	6.75e-85	313
+rnd-4_family-6#Unknown	gb|AY860968.1|	Sorghum bicolor yellow seed1 (y1) gene, y1-rr allele, complete cds; and y2 pseudogene, complete sequence	86.939	245	28	4	1	243	20699	20941	7.39e-73	272
+rnd-4_family-6#Unknown	gb|AY860968.1|	Sorghum bicolor yellow seed1 (y1) gene, y1-rr allele, complete cds; and y2 pseudogene, complete sequence	84.831	178	24	3	276	450	20728	20905	5.96e-44	176
+rnd-4_family-6#Unknown	gb|AF206660.1|	Sorghum bicolor transposable element candystripe1, complete sequence	89.535	86	9	0	400	485	14739	14654	6.13e-24	110
+rnd-6_family-6250#Unknown	gb|AF206660.1|	Sorghum bicolor transposable element candystripe1, complete sequence	80.851	94	17	1	320	413	10129	10221	3.30e-13	75.0
+rnd-6_family-6250#Unknown	gb|AF206660.1|	Sorghum bicolor transposable element candystripe1, complete sequence	81.013	79	7	5	390	468	14739	14669	9.25e-09	60.2
+rnd-6_family-4884#Unknown	dbj|AB210219.1|	Setaria italica GBSS1 gene, transposable element TSI-10 in intron 12	90.625	64	6	0	630	693	426	363	1.48e-16	86.1
+rnd-6_family-4884#Unknown	dbj|AB210220.1|	Setaria italica GBSS1 gene, transposable element TSI-10 and transposable element TSI-11	90.625	64	6	0	630	693	64	1	1.48e-16	86.1
+rnd-1_family-528#Unknown	gb|AY499411.1|	Zea mays retrotransposon Jia, complete sequence	78.212	179	32	7	1	175	1	176	2.43e-24	111
+rnd-1_family-528#Unknown	gb|JN205143.1|	Zea mays subsp. parviglumis isolate JSGyLOS_119 genomic sequence	83.673	98	15	1	5	102	3444	3540	3.17e-18	91.6
+rnd-5_family-1778#Unknown	gb|FJ167392.1|	Oryza sativa Japonica Group transposon DaiZ7 putative transposase gene, complete cds	94.286	35	1	1	615	648	54	20	1.45e-06	52.8
+rnd-6_family-120#Unknown	gb|AF206660.1|	Sorghum bicolor transposable element candystripe1, complete sequence	87.302	63	7	1	520	582	16416	16477	3.57e-12	71.3
+SINESCAN_3492_Chr07_63440074-63440693_+#Unknown	gb|FJ910143.1|	Zea mays subsp. mays Mu tranposon insertion Mu1007908 flanking sequence	80.000	185	37	0	56	240	490	306	3.46e-32	137
+SINESCAN_5143_Chr09_44859136-44859722_-_5S#Unknown	tpg|BK000373.1|	TPA_exp: Oryza sativa transposon Rim2-M91, complete sequence	83.688	141	22	1	1	141	30614	30753	1.55e-30	132
+SINESCAN_954_Chr02_55978727-55979317_+#DNA/hAT-Tip100	gb|FJ167392.1|	Oryza sativa Japonica Group transposon DaiZ7 putative transposase gene, complete cds	78.185	518	98	12	56	564	1293	1804	3.90e-86	316
+SINESCAN_954_Chr02_55978727-55979317_+#DNA/hAT-Tip100	dbj|DM010903.1|	Rice transposon gene	77.992	518	99	12	56	564	1293	1804	1.82e-84	311
+SINESCAN_5114_Chr07_62014717-62015289_+_5S#Unknown	gb|AF206660.1|	Sorghum bicolor transposable element candystripe1, complete sequence	81.944	144	22	3	25	168	10252	10113	4.30e-27	119
+SINESCAN_5054_Chr01_83755019-83755571_+_5S#Unknown	tpg|BK000373.1|	TPA_exp: Oryza sativa transposon Rim2-M91, complete sequence	87.665	227	25	3	1	226	30636	30860	1.79e-69	261
+SINESCAN_5054_Chr01_83755019-83755571_+_5S#Unknown	tpg|BK000373.1|	TPA_exp: Oryza sativa transposon Rim2-M91, complete sequence	87.225	227	23	4	1	226	31123	31344	3.00e-67	254
+rnd-6_family-115#Unknown	gb|AF206660.1|	Sorghum bicolor transposable element candystripe1, complete sequence	82.731	249	34	6	163	408	16609	16367	1.76e-59	228
+SINESCAN_5107_Chr07_14652631-14653172_-_5S#Unknown	tpg|BK000373.1|	TPA_exp: Oryza sativa transposon Rim2-M91, complete sequence	84.375	224	33	2	1	224	30642	30863	1.07e-56	219
+SINESCAN_5107_Chr07_14652631-14653172_-_5S#Unknown	tpg|BK000373.1|	TPA_exp: Oryza sativa transposon Rim2-M91, complete sequence	84.475	219	30	2	2	220	31130	31344	4.99e-55	213
+SINESCAN_5066_Chr02_61534634-61535159_+_5S#Unknown	tpg|BK000373.1|	TPA_exp: Oryza sativa transposon Rim2-M91, complete sequence	82.110	218	32	5	1	217	31134	31345	4.81e-45	180
+SINESCAN_5066_Chr02_61534634-61535159_+_5S#Unknown	tpg|BK000373.1|	TPA_exp: Oryza sativa transposon Rim2-M91, complete sequence	81.651	218	36	4	1	217	30647	30861	1.73e-44	178
+SINESCAN_5116_Chr07_64737257-64737765_+_5S#Unknown	tpg|BK000373.1|	TPA_exp: Oryza sativa transposon Rim2-M91, complete sequence	87.255	204	20	4	1	203	31148	31346	1.65e-59	228
+SINESCAN_649_Chr02_9783267-9783780_-#Unknown	gb|AY860968.1|	Sorghum bicolor yellow seed1 (y1) gene, y1-rr allele, complete cds; and y2 pseudogene, complete sequence	88.060	134	16	0	26	159	20905	20772	1.77e-39	159
+SINESCAN_649_Chr02_9783267-9783780_-#Unknown	gb|AF206660.1|	Sorghum bicolor transposable element candystripe1, complete sequence	90.541	74	5	2	4	76	14667	14739	1.41e-20	97.1
+SINESCAN_1833_Chr04_14694930-14695442_-#LTR/Copia	gb|AF227063.1|	Setaria verticillata VERTI9 Ty1 copia-like retrotransposon reverse transcriptase gene, partial cds	88.288	111	13	0	175	285	1	111	2.06e-31	134
+rnd-1_family-601#DNA/CMC-EnSpm	gb|FJ627006.1|	Zea mays cultivar A654 transposon Misfit putative TNP2-like protein and putative TNP1-like protein genes, complete cds; and disrupted dzs10 gene, partial sequence	87.676	284	35	0	169	452	3032	3315	5.46e-94	342
+SINESCAN_2349_Chr05_20726960-20727456_-#LTR/Copia	gb|DQ666286.1|	Triticum monococcum subsp. aegilopoides transposon Ty1/copia Angela_BAC5, complete sequence	75.000	284	67	4	19	299	4779	4497	1.64e-29	128
+SINESCAN_5040_Chr01_44117467-44117950_+_5S#Unknown	tpg|BK000373.1|	TPA_exp: Oryza sativa transposon Rim2-M91, complete sequence	87.671	219	23	4	5	221	30654	30870	4.47e-67	252
+SINESCAN_5040_Chr01_44117467-44117950_+_5S#Unknown	tpg|BK000373.1|	TPA_exp: Oryza sativa transposon Rim2-M91, complete sequence	88.095	210	19	4	5	213	31141	31345	7.49e-65	244
+SINESCAN_2614_Chr05_64389444-64389929_+#LTR/Copia	gb|AF537365.1|	Oryza sativa (japonica cultivar-group) houba copia-like retrotransposon, complete sequence	78.173	197	39	4	1	195	1667	1473	7.45e-28	122
+SINESCAN_2614_Chr05_64389444-64389929_+#LTR/Copia	tpg|BK000362.1|	TPA_exp: Oryza sativa transposon Rim2-M82 transposase gene, complete cds	78.173	197	39	4	1	195	11334	11140	7.45e-28	122
+SINESCAN_5121_Chr08_35475199-35475709_+_5S#Unknown	tpg|BK000373.1|	TPA_exp: Oryza sativa transposon Rim2-M91, complete sequence	83.261	460	70	7	4	458	30679	31136	3.02e-116	416
+SINESCAN_5121_Chr08_35475199-35475709_+_5S#Unknown	tpg|BK000373.1|	TPA_exp: Oryza sativa transposon Rim2-M91, complete sequence	82.199	191	23	8	4	190	31166	31349	2.61e-37	154
+SINESCAN_5121_Chr08_35475199-35475709_+_5S#Unknown	tpg|BK000373.1|	TPA_exp: Oryza sativa transposon Rim2-M91, complete sequence	91.304	69	5	1	391	458	30581	30649	5.77e-19	93.5
+SINESCAN_5077_Chr03_28740609-28741056_-_5S#Unknown	tpg|BK000373.1|	TPA_exp: Oryza sativa transposon Rim2-M91, complete sequence	86.607	224	28	2	1	224	30639	30860	2.66e-65	246
+SINESCAN_5077_Chr03_28740609-28741056_-_5S#Unknown	tpg|BK000373.1|	TPA_exp: Oryza sativa transposon Rim2-M91, complete sequence	86.161	224	26	3	1	224	31126	31344	1.60e-62	237
+SINESCAN_5096_Chr05_43660374-43660814_-_5S#Unknown	tpg|BK000373.1|	TPA_exp: Oryza sativa transposon Rim2-M91, complete sequence	88.182	220	20	4	22	240	31130	31344	1.77e-68	257
+SINESCAN_5096_Chr05_43660374-43660814_-_5S#Unknown	tpg|BK000373.1|	TPA_exp: Oryza sativa transposon Rim2-M91, complete sequence	87.783	221	24	3	21	240	30642	30860	6.35e-68	255
+rnd-5_family-3303#Unknown	tpg|BK000798.1|	TPA_inf: Oryza sativa transposon Rim2-M160, complete sequence	89.286	56	4	1	141	196	932	985	2.34e-12	71.3
+rnd-5_family-3303#Unknown	tpg|BK000834.1|	TPA_inf: Oryza sativa transposon Rim2-M204, complete sequence	89.286	56	4	1	141	196	991	1044	2.34e-12	71.3
+rnd-5_family-3303#Unknown	tpg|BK000791.1|	TPA_inf: Oryza sativa transposon Rim2-M193, complete sequence	91.837	49	3	1	141	188	172	124	8.43e-12	69.4
+rnd-5_family-3303#Unknown	tpg|BK000862.1|	TPA_inf: Oryza sativa transposon Rim2-M260, complete sequence	91.667	48	4	0	141	188	98	145	8.43e-12	69.4
+rnd-5_family-3303#Unknown	tpg|BK000792.1|	TPA_inf: Oryza sativa transposon Rim2-M156, complete sequence	95.122	41	2	0	141	181	147	107	3.03e-11	67.6
+rnd-5_family-3303#Unknown	tpg|BK000790.1|	TPA_inf: Oryza sativa transposon Rim2-M155, complete sequence	97.297	37	1	0	141	177	937	973	1.09e-10	65.8
+rnd-5_family-3303#Unknown	tpg|BK000762.1|	TPA_inf: Oryza sativa transposon Rim2-M176, complete sequence	87.500	56	5	1	141	196	178	125	1.09e-10	65.8
+rnd-5_family-3303#Unknown	tpg|BK000305.1|	TPA_exp: Oryza sativa transposon Rim2-M25, complete sequence	97.297	37	1	0	141	177	1022	1058	1.09e-10	65.8
+rnd-5_family-3303#Unknown	tpg|BK000314.1|	TPA_exp: Oryza sativa transposon Rim2-34, complete sequence	97.297	37	1	0	141	177	1026	1062	1.09e-10	65.8
+rnd-5_family-3303#Unknown	tpg|BK000318.1|	TPA_exp: Oryza sativa transposon Rim2-M38, complete sequence	97.297	37	1	0	141	177	126	162	1.09e-10	65.8
+rnd-5_family-3303#Unknown	tpg|BK000775.1|	TPA_inf: Oryza sativa transposon Rim2-M148, complete sequence	94.872	39	2	0	142	180	234	196	3.92e-10	63.9
+rnd-5_family-3303#Unknown	tpg|BK000807.1|	TPA_inf: Oryza sativa transposon Rim2-M218, complete sequence	92.683	41	3	0	141	181	155	115	1.41e-09	62.1
+rnd-5_family-3303#Unknown	tpg|BK000285.1|	TPA_exp: Oryza sativa transposon Rim2-M5, complete sequence	94.595	37	2	0	141	177	116	152	5.08e-09	60.2
+rnd-5_family-3303#Unknown	tpg|BK000306.1|	TPA_exp: Oryza sativa transposon Rim2-M26, complete sequence	94.595	37	2	0	141	177	161	125	5.08e-09	60.2
+rnd-5_family-3303#Unknown	tpg|BK000942.1|	TPA_inf: Oryza sativa transposon Rim2-M334, complete sequence	94.595	37	2	0	141	177	14368	14332	5.08e-09	60.2
+SINESCAN_3124_Chr07_3484955-3485346_+#DNA/CMC-EnSpm	gb|MK288027.1|	Zea mays subsp. mays transposon CACTA, complete sequence; and ufo1 (ufo1) gene, ufo1-1 allele, complete cds	85.559	367	49	1	1	367	19578	19940	8.70e-106	381
+rnd-1_family-692#LTR/Copia	gb|AY860968.1|	Sorghum bicolor yellow seed1 (y1) gene, y1-rr allele, complete cds; and y2 pseudogene, complete sequence	95.283	106	3	2	1	105	14519	14415	7.27e-42	169
+rnd-1_family-662#Unknown	gb|MK288027.1|	Zea mays subsp. mays transposon CACTA, complete sequence; and ufo1 (ufo1) gene, ufo1-1 allele, complete cds	87.258	361	42	4	1	359	2967	3325	1.80e-117	420
+rnd-1_family-662#Unknown	gb|MK288027.1|	Zea mays subsp. mays transposon CACTA, complete sequence; and ufo1 (ufo1) gene, ufo1-1 allele, complete cds	82.439	205	29	3	104	304	3271	3070	3.33e-45	180
+SINESCAN_5099_Chr05_62565533-62565904_-_5S#Unknown	tpg|BK000373.1|	TPA_exp: Oryza sativa transposon Rim2-M91, complete sequence	89.796	98	9	1	4	101	31165	31261	1.54e-28	124
+SINESCAN_5099_Chr05_62565533-62565904_-_5S#Unknown	tpg|BK000373.1|	TPA_exp: Oryza sativa transposon Rim2-M91, complete sequence	87.755	98	11	1	4	101	30678	30774	3.34e-25	113
+SINESCAN_5142_Chr09_36540853-36541219_-_5S#Unknown	tpg|BK000373.1|	TPA_exp: Oryza sativa transposon Rim2-M91, complete sequence	86.250	240	30	3	3	241	30621	30858	1.42e-68	257
+SINESCAN_5142_Chr09_36540853-36541219_-_5S#Unknown	tpg|BK000373.1|	TPA_exp: Oryza sativa transposon Rim2-M91, complete sequence	85.417	240	29	4	3	241	31108	31342	1.10e-64	244
+SINESCAN_5142_Chr09_36540853-36541219_-_5S#Unknown	gb|MG664911.1|	Zea mays subsp. mexicana isolate T41 protein kinase gene, complete cds	80.952	210	32	8	5	211	2366	2570	4.12e-39	159
+SINESCAN_1111_Chr02_76926476-76926834_-#Unknown	gb|AF206660.1|	Sorghum bicolor transposable element candystripe1, complete sequence	82.075	212	35	3	127	336	16610	16400	1.12e-44	178
+SINESCAN_3369_Chr07_47174128-47174491_-#DNA/PIF-Harbinger	gb|MG664870.1|	Zea mays subsp. mays transposon DNA7_ZM-like TE, complete sequence	90.149	335	33	0	1	335	2906	2572	1.66e-122	436
+SINESCAN_3781_Chr08_46492880-46493246_-#Unknown	gb|EU595575.1|	Triticum aestivum class III peroxidase (Prx111-15) gene, partial cds; and transposon CACTA, complete sequence	81.081	222	27	9	89	304	367	155	2.97e-40	163
+SINESCAN_4202_Chr09_38580824-38581152_+#Unknown	gb|FJ911310.1|	Zea mays subsp. mays Mu tranposon insertion Mu1009875 flanking sequence	100.000	44	0	0	197	240	134	91	7.96e-16	82.4
+SINESCAN_1603_Chr03_63538007-63538329_-#Unknown	gb|AY860968.1|	Sorghum bicolor yellow seed1 (y1) gene, y1-rr allele, complete cds; and y2 pseudogene, complete sequence	91.250	80	6	1	219	298	20943	20865	1.30e-23	108
+rnd-1_family-37#Unknown	gb|AF206660.1|	Sorghum bicolor transposable element candystripe1, complete sequence	92.308	65	4	1	11	74	16459	16395	9.99e-19	91.6
+SINESCAN_5078_Chr03_40125607-40125911_-_5S#Unknown	tpg|BK000373.1|	TPA_exp: Oryza sativa transposon Rim2-M91, complete sequence	87.435	191	21	3	4	193	30679	30867	2.02e-56	217
+SINESCAN_5078_Chr03_40125607-40125911_-_5S#Unknown	tpg|BK000373.1|	TPA_exp: Oryza sativa transposon Rim2-M91, complete sequence	87.831	189	17	4	4	191	31166	31349	2.02e-56	217
+SINESCAN_470_Chr01_75567446-75567754_+#Unknown	gb|FJ909300.1|	Zea mays subsp. mays Mu tranposon insertion Mu1005434 flanking sequence	86.957	161	12	6	124	276	502	343	4.36e-43	172
+SINESCAN_985_Chr02_59636245-59636555_-#Unknown	gb|KM190080.1|	Oryza sativa Japonica Group cultivar Lemont STV11-pa1 protein (STV11-pa1) gene, complete cds; transposon RIM2, partial sequence; STV11 (STV-bi) gene, complete sequence; STV11 (STV11) gene, complete cds; and STV11S (STV11) gene, complete sequence	92.157	51	4	0	222	272	13428	13478	4.55e-13	73.1
+rnd-1_family-736#LTR/Gypsy	ref|XM_020546473.2|	PREDICTED: Zea mays transposon Ty3-G Gag-Pol polyprotein (LOC103638371), mRNA	84.962	266	40	0	1	266	3094	3359	6.37e-81	298
+SINESCAN_5035_Chr01_360277-360555_-_5S#Unknown	tpg|BK000373.1|	TPA_exp: Oryza sativa transposon Rim2-M91, complete sequence	85.792	183	22	2	6	188	31166	31344	1.07e-48	191
+SINESCAN_5035_Chr01_360277-360555_-_5S#Unknown	tpg|BK000373.1|	TPA_exp: Oryza sativa transposon Rim2-M91, complete sequence	84.865	185	23	5	6	188	30679	30860	6.42e-46	182
+rnd-1_family-284#Unknown	gb|AY860968.1|	Sorghum bicolor yellow seed1 (y1) gene, y1-rr allele, complete cds; and y2 pseudogene, complete sequence	82.500	240	40	2	1	239	875	637	1.64e-56	217
+rnd-1_family-387#Unknown	gb|JQ314449.1|	Coix lacryma-jobi ring-H2 zinc finger protein (znf) gene, complete cds; retrotransposon Tear8, complete sequence; Tac7077 (tac7077) and ubiquitin conjugating enzyme 2 (uce2) genes, complete cds; and transposon CLDE1, complete sequence	86.900	229	28	2	1	228	22072	22299	9.31e-69	257
+rnd-5_family-354#Unknown	gb|AF206660.1|	Sorghum bicolor transposable element candystripe1, complete sequence	92.140	229	7	4	1	229	11608	11391	1.94e-85	313
+SINESCAN_3893_Chr08_59399432-59399690_+#Unknown	gb|AY860968.1|	Sorghum bicolor yellow seed1 (y1) gene, y1-rr allele, complete cds; and y2 pseudogene, complete sequence	94.681	94	5	0	127	220	20698	20791	1.99e-35	147
+SINESCAN_1063_Chr02_68940743-68940982_-#Unknown	gb|AF206660.1|	Sorghum bicolor transposable element candystripe1, complete sequence	89.394	66	5	2	69	133	14729	14665	5.49e-16	82.4
+rnd-1_family-759#Unknown	tpg|BK000331.1|	TPA_exp: Oryza sativa (indica cultivar-group) transposon Rim2-M51 transposase gene, complete cds	94.857	175	7	2	1	174	724	551	2.42e-73	272
+SINESCAN_1587_Chr03_61793921-61794122_+#Unknown	gb|AY860968.1|	Sorghum bicolor yellow seed1 (y1) gene, y1-rr allele, complete cds; and y2 pseudogene, complete sequence	81.197	117	16	3	60	173	20695	20808	2.60e-18	89.8
+SINESCAN_3462_Chr07_59913844-59914009_+#Unknown	gb|AF206660.1|	Sorghum bicolor transposable element candystripe1, complete sequence	95.833	48	2	0	8	55	14739	14692	4.50e-15	78.7
+rnd-1_family-271#Unknown	tpg|BK000866.1|	TPA_inf: Oryza sativa transposon Rim2-M264, complete sequence	84.328	134	10	7	1	129	8219	8092	1.85e-28	122
+rnd-1_family-271#Unknown	tpg|BK000866.1|	TPA_inf: Oryza sativa transposon Rim2-M264, complete sequence	85.000	80	8	3	50	129	172	97	4.06e-15	78.7
+rnd-1_family-271#Unknown	tpg|BK000909.1|	TPA_inf: Oryza sativa transposon Rim2-M304, complete sequence	82.836	134	12	5	1	129	10914	10787	4.00e-25	111
+rnd-1_family-271#Unknown	tpg|BK000909.1|	TPA_inf: Oryza sativa transposon Rim2-M304, complete sequence	87.209	86	5	4	1	86	10836	10915	4.03e-20	95.3
+rnd-1_family-271#Unknown	tpg|BK000909.1|	TPA_inf: Oryza sativa transposon Rim2-M304, complete sequence	83.750	80	9	3	50	129	171	96	1.89e-13	73.1
+rnd-1_family-271#Unknown	tpg|BK000340.1|	TPA_exp: Oryza sativa (indica cultivar-group) transposon Rim2-M60 transposase gene, complete cds	82.308	130	15	6	1	127	10105	9981	5.17e-24	108
+rnd-1_family-271#Unknown	tpg|BK000340.1|	TPA_exp: Oryza sativa (indica cultivar-group) transposon Rim2-M60 transposase gene, complete cds	91.228	57	3	2	50	104	136	80	1.46e-14	76.8
+rnd-1_family-271#Unknown	tpg|BK000356.1|	TPA_exp: Oryza sativa transposon Rim2-M76 transposase gene, complete cds	82.308	130	16	5	1	127	11996	11871	5.17e-24	108
+rnd-1_family-271#Unknown	tpg|BK000356.1|	TPA_exp: Oryza sativa transposon Rim2-M76 transposase gene, complete cds	84.884	86	7	4	1	86	11962	12041	8.72e-17	84.2
+rnd-1_family-271#Unknown	tpg|BK000356.1|	TPA_exp: Oryza sativa transposon Rim2-M76 transposase gene, complete cds	86.076	79	10	1	50	127	12384	12306	8.72e-17	84.2
+rnd-1_family-271#Unknown	tpg|BK000356.1|	TPA_exp: Oryza sativa transposon Rim2-M76 transposase gene, complete cds	100.000	37	0	0	50	86	12424	12460	2.44e-12	69.4
+rnd-1_family-271#Unknown	tpg|BK000751.1|	TPA_inf: Oryza sativa transposon Rim2-M140, complete sequence	89.286	84	5	2	50	129	921	838	2.41e-22	102
+rnd-1_family-271#Unknown	tpg|BK000291.1|	TPA_exp: Oryza sativa transposon Rim2-M11, complete sequence	89.286	84	5	2	50	129	924	841	2.41e-22	102
+rnd-1_family-271#Unknown	tpg|BK000780.1|	TPA_inf: Oryza sativa transposon Rim2-M188, complete sequence	81.538	130	16	5	3	129	157	281	2.41e-22	102
+rnd-1_family-271#Unknown	tpg|BK000780.1|	TPA_inf: Oryza sativa transposon Rim2-M188, complete sequence	86.585	82	8	2	50	129	935	1015	6.74e-18	87.9
+rnd-1_family-271#Unknown	tpg|BK000837.1|	TPA_inf: Oryza sativa transposon Rim2-M206, complete sequence	88.372	86	6	4	1	86	1068	987	2.41e-22	102
+rnd-1_family-271#Unknown	tpg|BK000799.1|	TPA_inf: Oryza sativa transposon Rim2-M2, complete sequence	89.286	84	4	4	1	84	137	215	2.41e-22	102
+rnd-1_family-271#Unknown	tpg|BK000344.1|	TPA_exp: Oryza sativa (indica cultivar-group) transposon Rim2-M64 transposase gene, complete cds	81.818	132	12	8	1	126	197	322	2.41e-22	102
+rnd-1_family-271#Unknown	tpg|BK000344.1|	TPA_exp: Oryza sativa (indica cultivar-group) transposon Rim2-M64 transposase gene, complete cds	87.805	82	5	2	53	129	322	241	5.21e-19	91.6
+rnd-1_family-271#Unknown	tpg|BK000921.1|	TPA_inf: Oryza sativa transposon Rim2-M319, complete sequence	81.538	130	17	5	1	127	11252	11127	2.41e-22	102
+rnd-1_family-271#Unknown	tpg|BK000921.1|	TPA_inf: Oryza sativa transposon Rim2-M319, complete sequence	85.000	80	8	3	50	129	172	97	4.06e-15	78.7
+rnd-1_family-271#Unknown	tpg|BK000838.1|	TPA_inf: Oryza sativa transposon Rim2-M239, complete sequence	80.620	129	23	2	1	129	1139	1265	8.66e-22	100
+rnd-1_family-271#Unknown	tpg|BK000838.1|	TPA_inf: Oryza sativa transposon Rim2-M239, complete sequence	83.750	80	13	0	50	129	1095	1174	1.46e-14	76.8
+rnd-1_family-271#Unknown	tpg|BK000838.1|	TPA_inf: Oryza sativa transposon Rim2-M239, complete sequence	83.750	80	13	0	50	129	1265	1186	1.46e-14	76.8
+rnd-1_family-271#Unknown	tpg|BK000938.1|	TPA_inf: Oryza sativa transposon Rim2-M340, complete sequence	88.889	81	8	1	50	129	17004	16924	3.11e-21	99.0
+rnd-1_family-271#Unknown	tpg|BK000938.1|	TPA_inf: Oryza sativa transposon Rim2-M340, complete sequence	80.620	129	16	3	1	129	10902	10783	1.45e-19	93.5
+rnd-1_family-271#Unknown	tpg|BK000938.1|	TPA_inf: Oryza sativa transposon Rim2-M340, complete sequence	82.075	106	14	2	1	106	15998	15898	6.74e-18	87.9
+rnd-1_family-271#Unknown	tpg|BK000831.1|	TPA_inf: Oryza sativa transposon Rim2-M236, complete sequence	88.095	84	6	2	50	129	1105	1022	1.12e-20	97.1
+rnd-1_family-271#Unknown	tpg|BK000831.1|	TPA_inf: Oryza sativa transposon Rim2-M236, complete sequence	100.000	37	0	0	50	86	159	123	2.44e-12	69.4
+rnd-1_family-271#Unknown	tpg|BK000317.1|	TPA_exp: Oryza sativa transposon Rim2-M37, complete sequence	87.952	83	7	2	50	129	1137	1055	4.03e-20	95.3
+rnd-1_family-271#Unknown	tpg|BK000317.1|	TPA_exp: Oryza sativa transposon Rim2-M37, complete sequence	100.000	37	0	0	50	86	253	217	2.44e-12	69.4
+rnd-1_family-271#Unknown	tpg|BK000317.1|	TPA_exp: Oryza sativa transposon Rim2-M37, complete sequence	87.931	58	6	1	50	107	126	182	8.78e-12	67.6
+rnd-1_family-271#Unknown	tpg|BK000833.1|	TPA_inf: Oryza sativa transposon Rim2-M237, complete sequence	80.597	134	15	7	1	129	215	342	4.03e-20	95.3
+rnd-1_family-271#Unknown	tpg|BK000875.1|	TPA_inf: Oryza sativa transposon Rim2-M284, complete sequence	80.597	134	15	5	1	129	201	328	4.03e-20	95.3
+rnd-1_family-271#Unknown	tpg|BK000912.1|	TPA_inf: Oryza sativa transposon Rim2-M305, complete sequence	80.597	134	15	6	1	129	10942	10815	4.03e-20	95.3
+rnd-1_family-271#Unknown	tpg|BK000309.1|	TPA_exp: Oryza sativa transposon Rim2-M28, complete sequence	85.882	85	10	2	1	85	262	180	5.21e-19	91.6
+rnd-1_family-271#Unknown	tpg|BK000936.1|	TPA_inf: Oryza sativa transposon Rim2-M330, complete sequence	87.059	85	6	2	50	129	271	355	5.21e-19	91.6
+rnd-1_family-271#Unknown	tpg|BK000363.1|	TPA_exp: Oryza sativa transposon Rim2-M83 transposase gene, complete cds	87.059	85	6	2	50	129	4279	4363	5.21e-19	91.6
+rnd-1_family-271#Unknown	tpg|BK000839.1|	TPA_inf: Oryza sativa transposon Rim2-M207, complete sequence	86.585	82	8	1	50	128	988	1069	6.74e-18	87.9
+rnd-1_family-271#Unknown	tpg|BK000320.1|	TPA_exp: Oryza sativa transposon Rim2-M40, complete sequence	86.250	80	11	0	50	129	1078	1157	6.74e-18	87.9
+rnd-1_family-271#Unknown	tpg|BK000868.1|	TPA_inf: Oryza sativa transposon Rim2-M265, complete sequence	85.882	85	7	3	50	129	224	308	2.42e-17	86.1
+rnd-1_family-271#Unknown	tpg|BK000777.1|	TPA_inf: Oryza sativa transposon Rim2-M149, complete sequence	92.982	57	4	0	50	106	172	116	8.72e-17	84.2
+rnd-1_family-271#Unknown	tpg|BK000308.1|	TPA_exp: Oryza sativa transposon Rim2-M27, complete sequence	84.884	86	7	3	1	86	196	275	8.72e-17	84.2
+rnd-1_family-271#Unknown	tpg|BK000308.1|	TPA_exp: Oryza sativa transposon Rim2-M27, complete sequence	89.286	56	6	0	51	106	1041	1096	6.79e-13	71.3
+rnd-1_family-271#Unknown	tpg|BK000802.1|	TPA_inf: Oryza sativa transposon Rim2-M213, complete sequence	86.076	79	10	1	51	129	1053	1130	8.72e-17	84.2
+rnd-1_family-271#Unknown	tpg|BK000802.1|	TPA_inf: Oryza sativa transposon Rim2-M213, complete sequence	84.810	79	11	1	50	128	1130	1053	4.06e-15	78.7
+rnd-1_family-271#Unknown	tpg|BK000802.1|	TPA_inf: Oryza sativa transposon Rim2-M213, complete sequence	100.000	31	0	0	50	80	162	132	5.28e-09	58.4
+rnd-1_family-271#Unknown	tpg|BK000818.1|	TPA_inf: Oryza sativa transposon Rim2-M229, complete sequence	84.884	86	7	4	1	85	217	137	8.72e-17	84.2
+rnd-1_family-271#Unknown	tpg|BK000818.1|	TPA_inf: Oryza sativa transposon Rim2-M229, complete sequence	82.500	80	14	0	50	129	1198	1119	6.79e-13	71.3
+rnd-1_family-271#Unknown	tpg|BK000862.1|	TPA_inf: Oryza sativa transposon Rim2-M260, complete sequence	82.653	98	12	2	9	106	5160	5252	8.72e-17	84.2
+rnd-1_family-271#Unknown	tpg|BK000337.1|	TPA_exp: Oryza sativa (indica cultivar-group) transposon Rim2-M57 transposase gene, complete cds	84.884	86	7	2	1	86	296	217	8.72e-17	84.2
+rnd-1_family-271#Unknown	tpg|BK000337.1|	TPA_exp: Oryza sativa (indica cultivar-group) transposon Rim2-M57 transposase gene, complete cds	100.000	37	0	0	50	86	162	126	2.44e-12	69.4
+rnd-1_family-271#Unknown	tpg|BK000338.1|	TPA_exp: Oryza sativa (indica cultivar-group) transposon Rim2-M58, complete sequence	84.884	86	7	4	1	86	297	218	8.72e-17	84.2
+rnd-1_family-271#Unknown	tpg|BK000338.1|	TPA_exp: Oryza sativa (indica cultivar-group) transposon Rim2-M58, complete sequence	100.000	37	0	0	50	86	9567	9531	2.44e-12	69.4
+rnd-1_family-271#Unknown	tpg|BK000889.1|	TPA_inf: Oryza sativa transposon Rim2-M292, complete sequence	86.250	80	8	2	50	129	10709	10633	8.72e-17	84.2
+rnd-1_family-271#Unknown	tpg|BK000366.1|	TPA_exp: Oryza sativa transposon Rim2-M86 transposase gene, complete cds	84.884	86	7	4	1	86	297	218	8.72e-17	84.2
+rnd-1_family-271#Unknown	tpg|BK000366.1|	TPA_exp: Oryza sativa transposon Rim2-M86 transposase gene, complete cds	100.000	37	0	0	50	86	9567	9531	2.44e-12	69.4
+rnd-1_family-271#Unknown	tpg|BK000743.1|	TPA_inf: Oryza sativa transposon Rim2-M163, complete sequence	86.486	74	10	0	56	129	859	932	3.14e-16	82.4
+rnd-1_family-271#Unknown	tpg|BK000779.1|	TPA_inf: Oryza sativa transposon Rim2-M186, complete sequence	90.625	64	2	2	50	109	1014	951	3.14e-16	82.4
+rnd-1_family-271#Unknown	tpg|BK000789.1|	TPA_inf: Oryza sativa transposon Rim2-M192, complete sequence	83.721	86	12	2	1	86	297	214	3.14e-16	82.4
+rnd-1_family-271#Unknown	tpg|BK000789.1|	TPA_inf: Oryza sativa transposon Rim2-M192, complete sequence	91.379	58	4	1	50	107	123	179	4.06e-15	78.7
+rnd-1_family-271#Unknown	tpg|BK000789.1|	TPA_inf: Oryza sativa transposon Rim2-M192, complete sequence	83.133	83	11	1	50	129	950	1032	1.89e-13	73.1
+rnd-1_family-271#Unknown	tpg|BK000304.1|	TPA_exp: Oryza sativa transposon Rim2-M24, complete sequence	83.721	86	12	2	1	86	300	217	3.14e-16	82.4
+rnd-1_family-271#Unknown	tpg|BK000304.1|	TPA_exp: Oryza sativa transposon Rim2-M24, complete sequence	91.379	58	4	1	50	107	126	182	4.06e-15	78.7
+rnd-1_family-271#Unknown	tpg|BK000304.1|	TPA_exp: Oryza sativa transposon Rim2-M24, complete sequence	83.133	83	11	1	50	129	953	1035	1.89e-13	73.1
+rnd-1_family-271#Unknown	tpg|BK000817.1|	TPA_inf: Oryza sativa transposon Rim2-M228, complete sequence	85.000	80	12	0	50	129	292	213	3.14e-16	82.4
+rnd-1_family-271#Unknown	tpg|BK000817.1|	TPA_inf: Oryza sativa transposon Rim2-M228, complete sequence	100.000	36	0	0	51	86	1159	1124	8.78e-12	67.6
+rnd-1_family-271#Unknown	tpg|BK000817.1|	TPA_inf: Oryza sativa transposon Rim2-M228, complete sequence	80.488	82	11	1	53	129	168	249	5.28e-09	58.4
+rnd-1_family-271#Unknown	tpg|BK000854.1|	TPA_inf: Oryza sativa transposon Rim2-M255, complete sequence	85.366	82	8	3	51	129	4280	4200	3.14e-16	82.4
+rnd-1_family-271#Unknown	tpg|BK000907.1|	TPA_inf: Oryza sativa transposon Rim2-M303, complete sequence	84.706	85	7	4	2	86	284	206	3.14e-16	82.4
+rnd-1_family-271#Unknown	tpg|BK000907.1|	TPA_inf: Oryza sativa transposon Rim2-M303, complete sequence	89.474	57	6	0	50	106	10894	10950	1.89e-13	73.1
+rnd-1_family-271#Unknown	gb|KM190080.1|	Oryza sativa Japonica Group cultivar Lemont STV11-pa1 protein (STV11-pa1) gene, complete cds; transposon RIM2, partial sequence; STV11 (STV-bi) gene, complete sequence; STV11 (STV11) gene, complete cds; and STV11S (STV11) gene, complete sequence	84.706	85	7	2	1	85	18819	18897	3.14e-16	82.4
+rnd-1_family-271#Unknown	tpg|BK000741.1|	TPA_inf: Oryza sativa transposon Rim2-M161, complete sequence	79.032	124	18	6	3	123	169	287	1.13e-15	80.5
+rnd-1_family-271#Unknown	tpg|BK000321.1|	TPA_exp: Oryza sativa transposon Rim2-M41, complete sequence	85.000	80	11	1	50	129	1180	1102	1.13e-15	80.5
+rnd-1_family-271#Unknown	tpg|BK000732.1|	TPA_inf: Oryza sativa transposon Rim2-M131, complete sequence	84.146	82	11	2	50	129	907	826	4.06e-15	78.7
+rnd-1_family-271#Unknown	tpg|BK000290.1|	TPA_exp: Oryza sativa transposon Rim2-M10, complete sequence	91.525	59	2	2	51	106	140	198	4.06e-15	78.7
+rnd-1_family-271#Unknown	tpg|BK000290.1|	TPA_exp: Oryza sativa transposon Rim2-M10, complete sequence	94.444	36	1	1	51	86	892	926	6.83e-08	54.7
+rnd-1_family-271#Unknown	tpg|BK000804.1|	TPA_inf: Oryza sativa transposon Rim2-M215, complete sequence	84.810	79	11	1	51	129	199	122	4.06e-15	78.7
+rnd-1_family-271#Unknown	tpg|BK000804.1|	TPA_inf: Oryza sativa transposon Rim2-M215, complete sequence	81.609	87	7	5	1	85	1004	1083	3.16e-11	65.8
+rnd-1_family-271#Unknown	tpg|BK000844.1|	TPA_inf: Oryza sativa transposon Rim2-M242, complete sequence	83.721	86	8	5	1	86	1182	1261	4.06e-15	78.7
+rnd-1_family-271#Unknown	tpg|BK000859.1|	TPA_inf: Oryza sativa transposon Rim2-M250, complete sequence	85.000	80	8	1	50	129	171	96	4.06e-15	78.7
+rnd-1_family-271#Unknown	tpg|BK000333.1|	TPA_exp: Oryza sativa (indica cultivar-group) transposon Rim2-M53, complete sequence	84.810	79	11	1	51	129	201	124	4.06e-15	78.7
+rnd-1_family-271#Unknown	tpg|BK000333.1|	TPA_exp: Oryza sativa (indica cultivar-group) transposon Rim2-M53, complete sequence	81.609	87	7	5	1	85	1006	1085	3.16e-11	65.8
+rnd-1_family-271#Unknown	tpg|BK000887.1|	TPA_inf: Oryza sativa transposon Rim2-M291, complete sequence	91.228	57	5	0	50	106	10790	10846	4.06e-15	78.7
+rnd-1_family-271#Unknown	tpg|BK000914.1|	TPA_inf: Oryza sativa transposon Rim2-M306, complete sequence	85.000	80	8	3	50	129	171	96	4.06e-15	78.7
+rnd-1_family-271#Unknown	tpg|BK000350.1|	TPA_exp: Oryza sativa transposon Rim2-M70 transposase gene, complete cds	80.734	109	14	5	22	127	253	357	4.06e-15	78.7
+rnd-1_family-271#Unknown	tpg|BK000350.1|	TPA_exp: Oryza sativa transposon Rim2-M70 transposase gene, complete cds	91.228	57	5	0	50	106	11037	11093	4.06e-15	78.7
+rnd-1_family-271#Unknown	tpg|BK000350.1|	TPA_exp: Oryza sativa transposon Rim2-M70 transposase gene, complete cds	100.000	37	0	0	50	86	240	204	2.44e-12	69.4
+rnd-1_family-271#Unknown	tpg|BK000915.1|	TPA_inf: Oryza sativa transposon Rim2-M316, complete sequence	91.228	57	5	0	50	106	11145	11201	4.06e-15	78.7
+rnd-1_family-271#Unknown	gb|AY090464.1|	Oryza sativa (indica cultivar-group) transposon CACTG element Rim2-553, complete sequence	91.228	57	5	0	50	106	14119	14175	4.06e-15	78.7
+rnd-1_family-271#Unknown	tpg|BK000944.1|	TPA_inf: Oryza sativa transposon Rim2-M335, complete sequence	91.228	57	5	0	50	106	14636	14692	4.06e-15	78.7
+rnd-1_family-271#Unknown	tpg|BK000947.1|	TPA_inf: Oryza sativa transposon Rim2-M338, complete sequence	85.000	80	8	1	50	129	172	97	4.06e-15	78.7
+rnd-1_family-271#Unknown	gb|AY090463.1|	Oryza sativa (indica cultivar-group) transposon CACTG element Rim2-248, complete sequence	83.721	86	8	2	1	86	296	217	4.06e-15	78.7
+rnd-1_family-271#Unknown	gb|AY090463.1|	Oryza sativa (indica cultivar-group) transposon CACTG element Rim2-248, complete sequence	91.228	57	5	0	50	106	14699	14755	4.06e-15	78.7
+rnd-1_family-271#Unknown	tpg|BK000943.1|	TPA_inf: Oryza sativa transposon Rim2-M336, complete sequence	85.000	80	8	3	50	129	172	97	4.06e-15	78.7
+rnd-1_family-271#Unknown	tpg|BK000365.1|	TPA_exp: Oryza sativa transposon Rim2-M85 transposase gene, complete cds	83.721	86	8	4	1	86	20062	20141	4.06e-15	78.7
+rnd-1_family-271#Unknown	tpg|BK000365.1|	TPA_exp: Oryza sativa transposon Rim2-M85 transposase gene, complete cds	84.810	79	8	3	51	129	174	100	1.46e-14	76.8
+rnd-1_family-271#Unknown	tpg|BK000367.1|	TPA_exp: Oryza sativa transposon Rim2-M87 transposase gene, complete cds	85.000	80	8	3	50	129	175	100	4.06e-15	78.7
+rnd-1_family-271#Unknown	tpg|BK000368.1|	TPA_exp: Oryza sativa transposon Rim2-M88 transposase gene, complete cds	85.000	80	8	3	50	129	174	99	4.06e-15	78.7
+rnd-1_family-271#Unknown	tpg|BK000368.1|	TPA_exp: Oryza sativa transposon Rim2-M88 transposase gene, complete cds	88.710	62	6	1	50	110	15167	15228	5.25e-14	75.0
+rnd-1_family-271#Unknown	tpg|BK000368.1|	TPA_exp: Oryza sativa transposon Rim2-M88 transposase gene, complete cds	100.000	37	0	0	50	86	25735	25699	2.44e-12	69.4
+rnd-1_family-271#Unknown	tpg|BK000373.1|	TPA_exp: Oryza sativa transposon Rim2-M91, complete sequence	85.000	80	8	3	50	129	175	100	4.06e-15	78.7
+rnd-1_family-271#Unknown	tpg|BK000288.1|	TPA_exp: Oryza sativa transposon Rim2-M8, complete sequence	91.379	58	1	1	50	107	115	168	1.46e-14	76.8
+rnd-1_family-271#Unknown	tpg|BK000932.1|	TPA_inf: Oryza sativa transposon Rim2-M343, complete sequence	84.810	79	8	3	51	129	170	96	1.46e-14	76.8
+rnd-1_family-271#Unknown	tpg|BK000932.1|	TPA_inf: Oryza sativa transposon Rim2-M343, complete sequence	100.000	37	0	0	50	86	219	255	2.44e-12	69.4
+rnd-1_family-271#Unknown	tpg|BK000932.1|	TPA_inf: Oryza sativa transposon Rim2-M343, complete sequence	100.000	31	0	0	56	86	19926	19896	5.28e-09	58.4
+rnd-1_family-271#Unknown	tpg|BK000852.1|	TPA_inf: Oryza sativa transposon Rim2-M254, complete sequence	85.000	80	4	4	50	129	4038	3967	5.25e-14	75.0
+rnd-1_family-271#Unknown	tpg|BK000852.1|	TPA_inf: Oryza sativa transposon Rim2-M254, complete sequence	83.750	80	5	4	50	129	3967	4038	2.44e-12	69.4
+rnd-1_family-271#Unknown	tpg|BK000872.1|	TPA_inf: Oryza sativa transposon Rim2-M268, complete sequence	83.529	85	9	3	50	129	215	299	5.25e-14	75.0
+rnd-1_family-271#Unknown	tpg|BK000885.1|	TPA_inf: Oryza sativa transposon Rim2-M290, complete sequence	88.710	62	6	1	50	110	212	273	5.25e-14	75.0
+rnd-1_family-271#Unknown	tpg|BK000885.1|	TPA_inf: Oryza sativa transposon Rim2-M290, complete sequence	100.000	37	0	0	50	86	10780	10744	2.44e-12	69.4
+rnd-1_family-271#Unknown	tpg|BK000346.1|	TPA_exp: Oryza sativa (indica cultivar-group) transposon Rim2-M66, complete sequence	83.529	85	9	3	50	129	10491	10575	5.25e-14	75.0
+rnd-1_family-271#Unknown	tpg|BK000903.1|	TPA_inf: Oryza sativa transposon Rim2-M310, complete sequence	92.308	52	4	0	55	106	199	148	5.25e-14	75.0
+rnd-1_family-271#Unknown	tpg|BK000903.1|	TPA_inf: Oryza sativa transposon Rim2-M310, complete sequence	82.353	85	9	5	1	85	10932	11010	6.79e-13	71.3
+rnd-1_family-271#Unknown	tpg|BK000903.1|	TPA_inf: Oryza sativa transposon Rim2-M310, complete sequence	82.353	85	10	3	50	129	10883	10967	2.44e-12	69.4
+rnd-1_family-271#Unknown	tpg|BK000761.1|	TPA_inf: Oryza sativa transposon Rim2-M175, complete sequence	83.750	80	9	3	50	129	172	97	1.89e-13	73.1
+rnd-1_family-271#Unknown	tpg|BK000871.1|	TPA_inf: Oryza sativa transposon Rim2-M282, complete sequence	97.619	42	1	0	50	91	79	38	1.89e-13	73.1
+rnd-1_family-271#Unknown	tpg|BK000895.1|	TPA_inf: Oryza sativa transposon Rim2-M296, complete sequence	83.750	80	9	3	50	129	172	97	1.89e-13	73.1
+rnd-1_family-271#Unknown	tpg|BK000894.1|	TPA_inf: Oryza sativa transposon Rim2-M295, complete sequence	83.750	80	9	3	50	129	172	97	1.89e-13	73.1
+rnd-1_family-271#Unknown	tpg|BK000785.1|	TPA_inf: Oryza sativa transposon Rim2-M153, complete sequence	83.784	74	12	0	50	123	123	196	6.79e-13	71.3
+rnd-1_family-271#Unknown	tpg|BK000813.1|	TPA_inf: Oryza sativa transposon Rim2-M224, complete sequence	97.561	41	1	0	50	90	135	175	6.79e-13	71.3
+rnd-1_family-271#Unknown	tpg|BK000339.1|	TPA_exp: Oryza sativa (indica cultivar-group) transposon Rim2-M59 transposase gene, complete cds	83.333	84	5	4	1	84	261	187	6.79e-13	71.3
+rnd-1_family-271#Unknown	tpg|BK000882.1|	TPA_inf: Oryza sativa transposon Rim2-M287, complete sequence	81.720	93	8	6	1	85	10587	10678	6.79e-13	71.3
+rnd-1_family-271#Unknown	tpg|BK000347.1|	TPA_exp: Oryza sativa (indica cultivar-group) transposon Rim2-M67 transposase gene, complete cds	82.759	87	6	4	1	86	10977	10899	6.79e-13	71.3
+rnd-1_family-271#Unknown	tpg|BK000826.1|	TPA_inf: Oryza sativa transposon Rim2-M199, complete sequence	100.000	37	0	0	50	86	1029	1065	2.44e-12	69.4
+rnd-1_family-271#Unknown	tpg|BK000315.1|	TPA_exp: Oryza sativa transposon Rim2-M35, complete sequence	100.000	37	0	0	50	86	1111	1147	2.44e-12	69.4
+rnd-1_family-271#Unknown	tpg|BK000846.1|	TPA_inf: Oryza sativa transposon Rim2-M251, complete sequence	100.000	37	0	0	50	86	3590	3626	2.44e-12	69.4
+rnd-1_family-271#Unknown	tpg|BK000855.1|	TPA_inf: Oryza sativa transposon Rim2-M256, complete sequence	100.000	37	0	0	50	86	4423	4459	2.44e-12	69.4
+rnd-1_family-271#Unknown	tpg|BK000874.1|	TPA_inf: Oryza sativa transposon Rim2-M269, complete sequence	100.000	37	0	0	50	86	9285	9321	2.44e-12	69.4
+rnd-1_family-271#Unknown	tpg|BK000874.1|	TPA_inf: Oryza sativa transposon Rim2-M269, complete sequence	97.297	37	1	0	50	86	9200	9236	1.14e-10	63.9
+rnd-1_family-271#Unknown	tpg|BK000874.1|	TPA_inf: Oryza sativa transposon Rim2-M269, complete sequence	100.000	31	0	0	56	86	201	231	5.28e-09	58.4
+rnd-1_family-271#Unknown	tpg|BK000881.1|	TPA_inf: Oryza sativa transposon Rim2-M273, complete sequence	100.000	37	0	0	50	86	9794	9758	2.44e-12	69.4
+rnd-1_family-271#Unknown	gb|AF537367.1|	Oryza sativa (japonica cultivar-group) CACTA-like transposon HIPA, complete sequence	100.000	37	0	0	50	86	291	255	2.44e-12	69.4
+rnd-1_family-271#Unknown	gb|AF537367.1|	Oryza sativa (japonica cultivar-group) CACTA-like transposon HIPA, complete sequence	100.000	37	0	0	50	86	10415	10379	2.44e-12	69.4
+rnd-1_family-271#Unknown	tpg|BK000343.1|	TPA_exp: Oryza sativa (indica cultivar-group) transposon Rim2-M63 transposase gene, complete cds	100.000	37	0	0	50	86	294	258	2.44e-12	69.4
+rnd-1_family-271#Unknown	tpg|BK000343.1|	TPA_exp: Oryza sativa (indica cultivar-group) transposon Rim2-M63 transposase gene, complete cds	100.000	37	0	0	50	86	10418	10382	2.44e-12	69.4
+rnd-1_family-271#Unknown	tpg|BK000899.1|	TPA_inf: Oryza sativa transposon Rim2-M279, complete sequence	100.000	37	0	0	50	86	183	147	2.44e-12	69.4
+rnd-1_family-271#Unknown	tpg|BK000867.1|	TPA_inf: Oryza sativa transposon Rim2-M281, complete sequence	100.000	37	0	0	50	86	10566	10530	2.44e-12	69.4
+rnd-1_family-271#Unknown	gb|AY090462.1|	Oryza sativa (indica cultivar-group) transposon CACTG element Rim2-228, complete sequence	100.000	37	0	0	50	86	10779	10743	2.44e-12	69.4
+rnd-1_family-271#Unknown	tpg|BK000884.1|	TPA_inf: Oryza sativa transposon Rim2-M289, complete sequence	100.000	37	0	0	50	86	136	172	2.44e-12	69.4
+rnd-1_family-271#Unknown	tpg|BK000892.1|	TPA_inf: Oryza sativa transposon Rim2-M294, complete sequence	100.000	37	0	0	50	86	181	217	2.44e-12	69.4
+rnd-1_family-271#Unknown	tpg|BK000348.1|	TPA_exp: Oryza sativa (indica cultivar-group) transposon Rim2-M68, complete sequence	100.000	37	0	0	50	86	10880	10844	2.44e-12	69.4
+rnd-1_family-271#Unknown	tpg|BK000900.1|	TPA_inf: Oryza sativa transposon Rim2-M299, complete sequence	100.000	37	0	0	50	86	10885	10849	2.44e-12	69.4
+rnd-1_family-271#Unknown	tpg|BK000902.1|	TPA_inf: Oryza sativa transposon Rim2-M300, complete sequence	100.000	37	0	0	50	86	196	160	2.44e-12	69.4
+rnd-1_family-271#Unknown	tpg|BK000904.1|	TPA_inf: Oryza sativa transposon Rim2-M301, complete sequence	100.000	37	0	0	50	86	10896	10860	2.44e-12	69.4
+rnd-1_family-271#Unknown	tpg|BK000917.1|	TPA_inf: Oryza sativa transposon Rim2-M308, complete sequence	100.000	37	0	0	50	86	159	123	2.44e-12	69.4
+rnd-1_family-271#Unknown	tpg|BK000917.1|	TPA_inf: Oryza sativa transposon Rim2-M308, complete sequence	87.931	58	5	2	50	105	215	272	8.78e-12	67.6
+rnd-1_family-271#Unknown	tpg|BK000919.1|	TPA_inf: Oryza sativa transposon Rim2-M309, complete sequence	100.000	37	0	0	50	86	250	214	2.44e-12	69.4
+rnd-1_family-271#Unknown	tpg|BK000919.1|	TPA_inf: Oryza sativa transposon Rim2-M309, complete sequence	100.000	37	0	0	50	86	11007	11043	2.44e-12	69.4
+rnd-1_family-271#Unknown	tpg|BK000905.1|	TPA_inf: Oryza sativa transposon Rim2-M311, complete sequence	100.000	37	0	0	50	86	155	191	2.44e-12	69.4
+rnd-1_family-271#Unknown	tpg|BK000910.1|	TPA_inf: Oryza sativa transposon Rim2-M313, complete sequence	100.000	37	0	0	50	86	203	239	2.44e-12	69.4
+rnd-1_family-271#Unknown	tpg|BK000918.1|	TPA_inf: Oryza sativa transposon Rim2-M317, complete sequence	100.000	37	0	0	50	86	11274	11310	2.44e-12	69.4
+rnd-1_family-271#Unknown	tpg|BK000930.1|	TPA_inf: Oryza sativa transposon Rim2-M327, complete sequence	100.000	37	0	0	50	86	12229	12265	2.44e-12	69.4
+rnd-1_family-271#Unknown	tpg|BK000361.1|	TPA_exp: Oryza sativa transposon Rim2-M80 transposase gene, complete cds	100.000	37	0	0	50	86	14164	14128	2.44e-12	69.4
+rnd-1_family-271#Unknown	tpg|BK000942.1|	TPA_inf: Oryza sativa transposon Rim2-M334, complete sequence	100.000	37	0	0	50	86	14466	14502	2.44e-12	69.4
+rnd-1_family-271#Unknown	tpg|BK000939.1|	TPA_inf: Oryza sativa transposon Rim2-M339, complete sequence	85.135	74	4	2	56	129	15490	15556	2.44e-12	69.4
+rnd-1_family-271#Unknown	tpg|BK000939.1|	TPA_inf: Oryza sativa transposon Rim2-M339, complete sequence	100.000	31	0	0	56	86	15526	15556	5.28e-09	58.4
+rnd-1_family-271#Unknown	tpg|BK000778.1|	TPA_inf: Oryza sativa transposon Rim2-M150, complete sequence	100.000	36	0	0	51	86	149	184	8.78e-12	67.6
+rnd-1_family-271#Unknown	tpg|BK000774.1|	TPA_inf: Oryza sativa transposon Rim2-M184, complete sequence	100.000	36	0	0	51	86	989	1024	8.78e-12	67.6
+rnd-1_family-271#Unknown	tpg|BK000306.1|	TPA_exp: Oryza sativa transposon Rim2-M26, complete sequence	100.000	36	0	0	50	85	1084	1049	8.78e-12	67.6
+rnd-1_family-271#Unknown	tpg|BK000856.1|	TPA_inf: Oryza sativa transposon Rim2-M248, complete sequence	100.000	36	0	0	50	85	2320	2355	8.78e-12	67.6
+rnd-1_family-271#Unknown	tpg|BK000328.1|	TPA_exp: Oryza sativa transposon Rim2-M48, complete sequence	100.000	36	0	0	50	85	4918	4883	8.78e-12	67.6
+rnd-1_family-271#Unknown	tpg|BK000730.1|	TPA_inf: Oryza sativa transposon Rim2-M130, complete sequence	81.609	87	7	3	1	86	291	213	3.16e-11	65.8
+rnd-1_family-271#Unknown	tpg|BK000730.1|	TPA_inf: Oryza sativa transposon Rim2-M130, complete sequence	97.297	37	1	0	50	86	122	158	1.14e-10	63.9
+rnd-1_family-271#Unknown	tpg|BK000303.1|	TPA_exp: Oryza sativa transposon Rim2-M23, complete sequence	83.099	71	12	0	50	120	948	878	3.16e-11	65.8
+rnd-1_family-271#Unknown	tpg|BK000303.1|	TPA_exp: Oryza sativa transposon Rim2-M23, complete sequence	97.222	36	1	0	50	85	1039	1004	4.08e-10	62.1
+rnd-1_family-271#Unknown	tpg|BK000325.1|	TPA_exp: Oryza sativa transposon Rim2-M47 transposase gene, complete cds	100.000	35	0	0	52	86	4346	4312	3.16e-11	65.8
+rnd-1_family-271#Unknown	tpg|BK000888.1|	TPA_inf: Oryza sativa transposon Rim2-M275, complete sequence	86.885	61	4	3	50	106	149	209	3.16e-11	65.8
+rnd-1_family-271#Unknown	tpg|BK000913.1|	TPA_inf: Oryza sativa transposon Rim2-M315, complete sequence	81.609	87	7	4	1	86	11177	11099	3.16e-11	65.8
+rnd-1_family-271#Unknown	tpg|BK000734.1|	TPA_inf: Oryza sativa transposon Rim2-M132, complete sequence	82.432	74	12	1	56	129	269	197	1.14e-10	63.9
+rnd-1_family-271#Unknown	tpg|BK000768.1|	TPA_inf: Oryza sativa transposon Rim2-M145, complete sequence	97.297	37	1	0	50	86	159	123	1.14e-10	63.9
+rnd-1_family-271#Unknown	tpg|BK000769.1|	TPA_inf: Oryza sativa transposon Rim2-M146, complete sequence	97.297	37	1	0	50	86	136	172	1.14e-10	63.9
+rnd-1_family-271#Unknown	tpg|BK000299.1|	TPA_exp: Oryza sativa transposon Rim2-M19, complete sequence	97.297	37	1	0	50	86	1010	974	1.14e-10	63.9
+rnd-1_family-271#Unknown	tpg|BK000793.1|	TPA_inf: Oryza sativa transposon Rim2-M194, complete sequence	97.297	37	1	0	50	86	159	123	1.14e-10	63.9
+rnd-1_family-271#Unknown	tpg|BK000794.1|	TPA_inf: Oryza sativa transposon Rim2-M195, complete sequence	97.297	37	1	0	50	86	148	112	1.14e-10	63.9
+rnd-1_family-271#Unknown	tpg|BK000794.1|	TPA_inf: Oryza sativa transposon Rim2-M195, complete sequence	97.297	37	1	0	50	86	218	182	1.14e-10	63.9
+rnd-1_family-271#Unknown	tpg|BK000316.1|	TPA_exp: Oryza sativa transposon Rim2-M36, complete sequence	81.707	82	10	1	53	129	152	233	1.14e-10	63.9
+rnd-1_family-271#Unknown	tpg|BK000821.1|	TPA_inf: Oryza sativa transposon Rim2-M231, complete sequence	97.297	37	1	0	50	86	148	112	1.14e-10	63.9
+rnd-1_family-271#Unknown	tpg|BK000851.1|	TPA_inf: Oryza sativa transposon Rim2-M246, complete sequence	85.938	64	3	4	50	110	67	127	1.14e-10	63.9
+rnd-1_family-271#Unknown	tpg|BK000890.1|	TPA_inf: Oryza sativa transposon Rim2-M276, complete sequence	97.297	37	1	0	50	86	159	123	1.14e-10	63.9
+rnd-1_family-271#Unknown	tpg|BK000896.1|	TPA_inf: Oryza sativa transposon Rim2-M297, complete sequence	97.297	37	1	0	50	86	149	185	1.14e-10	63.9
+rnd-1_family-271#Unknown	tpg|BK000916.1|	TPA_inf: Oryza sativa transposon Rim2-M307, complete sequence	97.297	37	1	0	50	86	10967	10931	1.14e-10	63.9
+rnd-1_family-271#Unknown	tpg|BK000349.1|	TPA_exp: Oryza sativa (indica cultivar-group) transposon Rim2-M69 transposase gene, complete cds	97.297	37	1	0	50	86	10970	10934	1.14e-10	63.9
+rnd-1_family-271#Unknown	tpg|BK000920.1|	TPA_inf: Oryza sativa transposon Rim2-M318, complete sequence	97.297	37	1	0	50	86	159	123	1.14e-10	63.9
+rnd-1_family-271#Unknown	tpg|BK000725.1|	TPA_inf: Oryza sativa transposon Rim2-M113, complete sequence	97.222	36	1	0	50	85	122	157	4.08e-10	62.1
+rnd-1_family-271#Unknown	tpg|BK000723.1|	TPA_inf: Oryza sativa transposon Rim2-M128, complete sequence	97.222	36	1	0	50	85	848	883	4.08e-10	62.1
+rnd-1_family-271#Unknown	tpg|BK000736.1|	TPA_inf: Oryza sativa transposon Rim2-M134, complete sequence	97.222	36	1	0	50	85	881	916	4.08e-10	62.1
+rnd-1_family-271#Unknown	tpg|BK000736.1|	TPA_inf: Oryza sativa transposon Rim2-M134, complete sequence	100.000	28	0	0	56	83	252	225	2.46e-07	52.8
+rnd-1_family-271#Unknown	tpg|BK000924.1|	TPA_inf: Oryza sativa transposon Rim2-M320, complete sequence	97.222	36	1	0	56	91	1137	1102	4.08e-10	62.1
+rnd-1_family-271#Unknown	tpg|BK000714.1|	TPA_inf: Oryza sativa transposon Rim2-M125, complete sequence	97.143	35	1	0	52	86	129	163	1.47e-09	60.2
+rnd-1_family-271#Unknown	tpg|BK000911.1|	TPA_inf: Oryza sativa transposon Rim2-M314, complete sequence	100.000	32	0	0	50	81	136	167	1.47e-09	60.2
+rnd-1_family-271#Unknown	tpg|BK000842.1|	TPA_inf: Oryza sativa transposon Rim2-M209, complete sequence	94.595	37	2	0	50	86	147	111	5.28e-09	58.4
+rnd-1_family-271#Unknown	tpg|BK000801.1|	TPA_inf: Oryza sativa transposon Rim2-M212, complete sequence	85.000	60	6	1	50	106	907	966	5.28e-09	58.4
+rnd-1_family-271#Unknown	tpg|BK000307.1|	TPA_exp: Oryza sativa transposon Rim2-M29, complete sequence	100.000	31	0	0	56	86	1086	1056	5.28e-09	58.4
+rnd-1_family-271#Unknown	tpg|BK000313.1|	TPA_exp: Oryza sativa transposon Rim2-M33, complete sequence	80.488	82	11	1	53	129	171	252	5.28e-09	58.4
+rnd-1_family-271#Unknown	tpg|BK000858.1|	TPA_inf: Oryza sativa transposon Rim2-M257, complete sequence	94.595	37	2	0	50	86	201	237	5.28e-09	58.4
+rnd-1_family-271#Unknown	tpg|BK000876.1|	TPA_inf: Oryza sativa transposon Rim2-M270, complete sequence	94.595	37	2	0	50	86	194	230	5.28e-09	58.4
+rnd-1_family-271#Unknown	tpg|BK000923.1|	TPA_inf: Oryza sativa transposon Rim2-M324, complete sequence	100.000	31	0	0	56	86	749	719	5.28e-09	58.4
+rnd-1_family-271#Unknown	tpg|BK000360.1|	TPA_exp: Oryza sativa transposon Rim2-M81 transposase gene, complete cds	94.595	37	2	0	50	86	204	240	5.28e-09	58.4
+rnd-1_family-271#Unknown	tpg|BK000362.1|	TPA_exp: Oryza sativa transposon Rim2-M82 transposase gene, complete cds	94.595	37	2	0	50	86	197	233	5.28e-09	58.4
+rnd-1_family-271#Unknown	tpg|BK000934.1|	TPA_inf: Oryza sativa transposon Rim2-M342, complete sequence	89.130	46	5	0	58	103	21891	21936	5.28e-09	58.4
+rnd-1_family-271#Unknown	tpg|BK000800.1|	TPA_inf: Oryza sativa transposon Rim2-M211, complete sequence	94.444	36	2	0	51	86	1061	1096	1.90e-08	56.5
+rnd-1_family-271#Unknown	tpg|BK000749.1|	TPA_inf: Oryza sativa transposon Rim2-M167, complete sequence	100.000	28	0	0	53	80	241	268	2.46e-07	52.8
+SINESCAN_1623_Chr03_66025007-66025158_-#Unknown	gb|FJ909387.1|	Zea mays subsp. mays Mu tranposon insertion Mu1005990 flanking sequence	96.721	61	2	0	69	129	351	411	2.36e-22	102
+SINESCAN_1623_Chr03_66025007-66025158_-#Unknown	gb|FJ909387.1|	Zea mays subsp. mays Mu tranposon insertion Mu1005990 flanking sequence	97.368	38	1	0	35	72	208	245	3.10e-11	65.8
+SINESCAN_2190_Chr05_2914655-2914807_-#Unknown	gb|AY860968.1|	Sorghum bicolor yellow seed1 (y1) gene, y1-rr allele, complete cds; and y2 pseudogene, complete sequence	97.059	34	1	0	74	107	20703	20736	4.85e-09	58.4
+rnd-6_family-8073#Unknown	gb|GBRH01131172.1|	TSA: Arundo donax Contig22287 transcribed RNA sequence	89.062	64	6	1	31	93	692	629	3.46e-15	78.7
+rnd-6_family-8073#Unknown	gb|GBRH01131119.1|	TSA: Arundo donax Contig22282 transcribed RNA sequence	90.000	60	5	1	35	93	1101	1042	1.25e-14	76.8
+rnd-1_family-275#Unknown	tpg|BK000777.1|	TPA_inf: Oryza sativa transposon Rim2-M149, complete sequence	94.444	54	2	1	1	53	119	172	2.42e-16	82.4
+rnd-1_family-275#Unknown	tpg|BK000789.1|	TPA_inf: Oryza sativa transposon Rim2-M192, complete sequence	94.340	53	3	0	1	53	175	123	2.42e-16	82.4
+rnd-1_family-275#Unknown	tpg|BK000789.1|	TPA_inf: Oryza sativa transposon Rim2-M192, complete sequence	100.000	37	0	0	17	53	214	250	1.88e-12	69.4
+rnd-1_family-275#Unknown	tpg|BK000789.1|	TPA_inf: Oryza sativa transposon Rim2-M192, complete sequence	94.595	37	2	0	17	53	986	950	4.08e-09	58.4
+rnd-1_family-275#Unknown	tpg|BK000304.1|	TPA_exp: Oryza sativa transposon Rim2-M24, complete sequence	94.340	53	3	0	1	53	178	126	2.42e-16	82.4
+rnd-1_family-275#Unknown	tpg|BK000304.1|	TPA_exp: Oryza sativa transposon Rim2-M24, complete sequence	100.000	37	0	0	17	53	217	253	1.88e-12	69.4
+rnd-1_family-275#Unknown	tpg|BK000304.1|	TPA_exp: Oryza sativa transposon Rim2-M24, complete sequence	94.595	37	2	0	17	53	989	953	4.08e-09	58.4
+rnd-1_family-275#Unknown	tpg|BK000321.1|	TPA_exp: Oryza sativa transposon Rim2-M41, complete sequence	94.340	53	3	0	1	53	1128	1180	2.42e-16	82.4
+rnd-1_family-275#Unknown	tpg|BK000915.1|	TPA_inf: Oryza sativa transposon Rim2-M316, complete sequence	89.062	64	6	1	1	63	11198	11135	3.13e-15	78.7
+rnd-1_family-275#Unknown	tpg|BK000944.1|	TPA_inf: Oryza sativa transposon Rim2-M335, complete sequence	89.062	64	6	1	1	63	14689	14626	3.13e-15	78.7
+rnd-1_family-275#Unknown	tpg|BK000947.1|	TPA_inf: Oryza sativa transposon Rim2-M338, complete sequence	91.379	58	4	1	1	57	119	176	3.13e-15	78.7
+rnd-1_family-275#Unknown	gb|AY090463.1|	Oryza sativa (indica cultivar-group) transposon CACTG element Rim2-248, complete sequence	89.062	64	6	1	1	63	14752	14689	3.13e-15	78.7
+rnd-1_family-275#Unknown	gb|AY090463.1|	Oryza sativa (indica cultivar-group) transposon CACTG element Rim2-248, complete sequence	100.000	37	0	0	17	53	217	253	1.88e-12	69.4
+rnd-1_family-275#Unknown	tpg|BK000317.1|	TPA_exp: Oryza sativa transposon Rim2-M37, complete sequence	92.453	53	4	0	1	53	178	126	1.13e-14	76.8
+rnd-1_family-275#Unknown	tpg|BK000317.1|	TPA_exp: Oryza sativa transposon Rim2-M37, complete sequence	100.000	37	0	0	17	53	217	253	1.88e-12	69.4
+rnd-1_family-275#Unknown	tpg|BK000317.1|	TPA_exp: Oryza sativa transposon Rim2-M37, complete sequence	100.000	37	0	0	17	53	1101	1137	1.88e-12	69.4
+rnd-1_family-275#Unknown	tpg|BK000859.1|	TPA_inf: Oryza sativa transposon Rim2-M250, complete sequence	92.593	54	3	1	1	53	118	171	1.13e-14	76.8
+rnd-1_family-275#Unknown	tpg|BK000866.1|	TPA_inf: Oryza sativa transposon Rim2-M264, complete sequence	92.593	54	3	1	1	53	119	172	1.13e-14	76.8
+rnd-1_family-275#Unknown	tpg|BK000866.1|	TPA_inf: Oryza sativa transposon Rim2-M264, complete sequence	100.000	37	0	0	17	53	8140	8176	1.88e-12	69.4
+rnd-1_family-275#Unknown	tpg|BK000887.1|	TPA_inf: Oryza sativa transposon Rim2-M291, complete sequence	92.593	54	3	1	1	53	10843	10790	1.13e-14	76.8
+rnd-1_family-275#Unknown	tpg|BK000914.1|	TPA_inf: Oryza sativa transposon Rim2-M306, complete sequence	92.593	54	3	1	1	53	118	171	1.13e-14	76.8
+rnd-1_family-275#Unknown	tpg|BK000350.1|	TPA_exp: Oryza sativa transposon Rim2-M70 transposase gene, complete cds	92.593	54	3	1	1	53	11090	11037	1.13e-14	76.8
+rnd-1_family-275#Unknown	tpg|BK000350.1|	TPA_exp: Oryza sativa transposon Rim2-M70 transposase gene, complete cds	100.000	37	0	0	17	53	204	240	1.88e-12	69.4
+rnd-1_family-275#Unknown	tpg|BK000350.1|	TPA_exp: Oryza sativa transposon Rim2-M70 transposase gene, complete cds	97.297	37	1	0	17	53	315	279	8.76e-11	63.9
+rnd-1_family-275#Unknown	tpg|BK000921.1|	TPA_inf: Oryza sativa transposon Rim2-M319, complete sequence	92.593	54	3	1	1	53	119	172	1.13e-14	76.8
+rnd-1_family-275#Unknown	tpg|BK000921.1|	TPA_inf: Oryza sativa transposon Rim2-M319, complete sequence	89.091	55	4	1	1	53	11151	11205	6.77e-12	67.6
+rnd-1_family-275#Unknown	gb|AY090464.1|	Oryza sativa (indica cultivar-group) transposon CACTG element Rim2-553, complete sequence	92.593	54	3	1	1	53	14172	14119	1.13e-14	76.8
+rnd-1_family-275#Unknown	tpg|BK000943.1|	TPA_inf: Oryza sativa transposon Rim2-M336, complete sequence	92.593	54	3	1	1	53	119	172	1.13e-14	76.8
+rnd-1_family-275#Unknown	tpg|BK000367.1|	TPA_exp: Oryza sativa transposon Rim2-M87 transposase gene, complete cds	92.593	54	3	1	1	53	122	175	1.13e-14	76.8
+rnd-1_family-275#Unknown	tpg|BK000368.1|	TPA_exp: Oryza sativa transposon Rim2-M88 transposase gene, complete cds	92.593	54	3	1	1	53	121	174	1.13e-14	76.8
+rnd-1_family-275#Unknown	tpg|BK000368.1|	TPA_exp: Oryza sativa transposon Rim2-M88 transposase gene, complete cds	90.909	55	3	2	1	53	15221	15167	1.46e-13	73.1
+rnd-1_family-275#Unknown	tpg|BK000368.1|	TPA_exp: Oryza sativa transposon Rim2-M88 transposase gene, complete cds	97.561	41	1	0	17	57	25699	25739	5.23e-13	71.3
+rnd-1_family-275#Unknown	tpg|BK000373.1|	TPA_exp: Oryza sativa transposon Rim2-M91, complete sequence	92.593	54	3	1	1	53	122	175	1.13e-14	76.8
+rnd-1_family-275#Unknown	tpg|BK000804.1|	TPA_inf: Oryza sativa transposon Rim2-M215, complete sequence	92.308	52	4	0	1	52	148	199	4.05e-14	75.0
+rnd-1_family-275#Unknown	tpg|BK000804.1|	TPA_inf: Oryza sativa transposon Rim2-M215, complete sequence	97.222	36	1	0	18	53	1083	1048	3.15e-10	62.1
+rnd-1_family-275#Unknown	tpg|BK000333.1|	TPA_exp: Oryza sativa (indica cultivar-group) transposon Rim2-M53, complete sequence	92.308	52	4	0	1	52	150	201	4.05e-14	75.0
+rnd-1_family-275#Unknown	tpg|BK000333.1|	TPA_exp: Oryza sativa (indica cultivar-group) transposon Rim2-M53, complete sequence	97.222	36	1	0	18	53	1085	1050	3.15e-10	62.1
+rnd-1_family-275#Unknown	tpg|BK000909.1|	TPA_inf: Oryza sativa transposon Rim2-M304, complete sequence	92.453	53	3	1	2	53	119	171	4.05e-14	75.0
+rnd-1_family-275#Unknown	tpg|BK000909.1|	TPA_inf: Oryza sativa transposon Rim2-M304, complete sequence	100.000	37	0	0	17	53	10835	10871	1.88e-12	69.4
+rnd-1_family-275#Unknown	tpg|BK000909.1|	TPA_inf: Oryza sativa transposon Rim2-M304, complete sequence	100.000	37	0	0	17	53	10915	10879	1.88e-12	69.4
+rnd-1_family-275#Unknown	tpg|BK000365.1|	TPA_exp: Oryza sativa transposon Rim2-M85 transposase gene, complete cds	92.453	53	3	1	1	52	122	174	4.05e-14	75.0
+rnd-1_family-275#Unknown	tpg|BK000365.1|	TPA_exp: Oryza sativa transposon Rim2-M85 transposase gene, complete cds	100.000	37	0	0	17	53	20141	20105	1.88e-12	69.4
+rnd-1_family-275#Unknown	tpg|BK000932.1|	TPA_inf: Oryza sativa transposon Rim2-M343, complete sequence	92.453	53	3	1	1	52	118	170	4.05e-14	75.0
+rnd-1_family-275#Unknown	tpg|BK000932.1|	TPA_inf: Oryza sativa transposon Rim2-M343, complete sequence	97.561	41	1	0	17	57	255	215	5.23e-13	71.3
+rnd-1_family-275#Unknown	tpg|BK000932.1|	TPA_inf: Oryza sativa transposon Rim2-M343, complete sequence	100.000	31	0	0	17	47	19896	19926	4.08e-09	58.4
+rnd-1_family-275#Unknown	tpg|BK000288.1|	TPA_exp: Oryza sativa transposon Rim2-M8, complete sequence	92.453	53	1	2	1	53	164	115	1.46e-13	73.1
+rnd-1_family-275#Unknown	tpg|BK000290.1|	TPA_exp: Oryza sativa transposon Rim2-M10, complete sequence	91.071	56	1	3	1	52	195	140	1.46e-13	73.1
+rnd-1_family-275#Unknown	tpg|BK000290.1|	TPA_exp: Oryza sativa transposon Rim2-M10, complete sequence	94.444	36	1	1	17	52	926	892	5.27e-08	54.7
+rnd-1_family-275#Unknown	tpg|BK000780.1|	TPA_inf: Oryza sativa transposon Rim2-M188, complete sequence	90.909	55	3	1	1	53	989	935	1.46e-13	73.1
+rnd-1_family-275#Unknown	tpg|BK000780.1|	TPA_inf: Oryza sativa transposon Rim2-M188, complete sequence	90.741	54	4	1	1	53	255	202	5.23e-13	71.3
+rnd-1_family-275#Unknown	tpg|BK000340.1|	TPA_exp: Oryza sativa (indica cultivar-group) transposon Rim2-M60 transposase gene, complete cds	91.071	56	2	1	1	53	81	136	1.46e-13	73.1
+rnd-1_family-275#Unknown	tpg|BK000340.1|	TPA_exp: Oryza sativa (indica cultivar-group) transposon Rim2-M60 transposase gene, complete cds	89.091	55	4	1	1	53	10004	10058	6.77e-12	67.6
+rnd-1_family-275#Unknown	tpg|BK000885.1|	TPA_inf: Oryza sativa transposon Rim2-M290, complete sequence	90.909	55	3	2	1	53	266	212	1.46e-13	73.1
+rnd-1_family-275#Unknown	tpg|BK000885.1|	TPA_inf: Oryza sativa transposon Rim2-M290, complete sequence	97.561	41	1	0	17	57	10744	10784	5.23e-13	71.3
+rnd-1_family-275#Unknown	tpg|BK000903.1|	TPA_inf: Oryza sativa transposon Rim2-M310, complete sequence	93.878	49	2	1	1	48	151	199	1.46e-13	73.1
+rnd-1_family-275#Unknown	tpg|BK000903.1|	TPA_inf: Oryza sativa transposon Rim2-M310, complete sequence	100.000	36	0	0	18	53	11010	10975	6.77e-12	67.6
+rnd-1_family-275#Unknown	tpg|BK000903.1|	TPA_inf: Oryza sativa transposon Rim2-M310, complete sequence	97.297	37	1	0	17	53	10919	10883	8.76e-11	63.9
+rnd-1_family-275#Unknown	tpg|BK000938.1|	TPA_inf: Oryza sativa transposon Rim2-M340, complete sequence	90.909	55	3	2	1	53	16950	17004	1.46e-13	73.1
+rnd-1_family-275#Unknown	tpg|BK000938.1|	TPA_inf: Oryza sativa transposon Rim2-M340, complete sequence	90.741	54	4	1	1	53	15901	15954	5.23e-13	71.3
+rnd-1_family-275#Unknown	tpg|BK000938.1|	TPA_inf: Oryza sativa transposon Rim2-M340, complete sequence	100.000	37	0	0	17	53	10823	10859	1.88e-12	69.4
+rnd-1_family-275#Unknown	tpg|BK000761.1|	TPA_inf: Oryza sativa transposon Rim2-M175, complete sequence	90.741	54	4	1	1	53	119	172	5.23e-13	71.3
+rnd-1_family-275#Unknown	tpg|BK000862.1|	TPA_inf: Oryza sativa transposon Rim2-M260, complete sequence	90.741	54	4	1	1	53	5249	5196	5.23e-13	71.3
+rnd-1_family-275#Unknown	gb|AF537367.1|	Oryza sativa (japonica cultivar-group) CACTA-like transposon HIPA, complete sequence	93.878	49	0	1	8	53	10367	10415	5.23e-13	71.3
+rnd-1_family-275#Unknown	gb|AF537367.1|	Oryza sativa (japonica cultivar-group) CACTA-like transposon HIPA, complete sequence	100.000	37	0	0	17	53	255	291	1.88e-12	69.4
+rnd-1_family-275#Unknown	tpg|BK000343.1|	TPA_exp: Oryza sativa (indica cultivar-group) transposon Rim2-M63 transposase gene, complete cds	93.878	49	0	1	8	53	10370	10418	5.23e-13	71.3
+rnd-1_family-275#Unknown	tpg|BK000343.1|	TPA_exp: Oryza sativa (indica cultivar-group) transposon Rim2-M63 transposase gene, complete cds	100.000	37	0	0	17	53	258	294	1.88e-12	69.4
+rnd-1_family-275#Unknown	tpg|BK000871.1|	TPA_inf: Oryza sativa transposon Rim2-M282, complete sequence	100.000	38	0	0	16	53	42	79	5.23e-13	71.3
+rnd-1_family-275#Unknown	tpg|BK000892.1|	TPA_inf: Oryza sativa transposon Rim2-M294, complete sequence	93.617	47	3	0	17	63	217	171	5.23e-13	71.3
+rnd-1_family-275#Unknown	tpg|BK000895.1|	TPA_inf: Oryza sativa transposon Rim2-M296, complete sequence	90.741	54	4	1	1	53	119	172	5.23e-13	71.3
+rnd-1_family-275#Unknown	tpg|BK000894.1|	TPA_inf: Oryza sativa transposon Rim2-M295, complete sequence	90.741	54	4	1	1	53	119	172	5.23e-13	71.3
+rnd-1_family-275#Unknown	tpg|BK000907.1|	TPA_inf: Oryza sativa transposon Rim2-M303, complete sequence	90.741	54	4	1	1	53	10947	10894	5.23e-13	71.3
+rnd-1_family-275#Unknown	tpg|BK000907.1|	TPA_inf: Oryza sativa transposon Rim2-M303, complete sequence	100.000	37	0	0	17	53	206	242	1.88e-12	69.4
+rnd-1_family-275#Unknown	tpg|BK000905.1|	TPA_inf: Oryza sativa transposon Rim2-M311, complete sequence	93.617	47	3	0	17	63	191	145	5.23e-13	71.3
+rnd-1_family-275#Unknown	tpg|BK000910.1|	TPA_inf: Oryza sativa transposon Rim2-M313, complete sequence	93.617	47	3	0	17	63	239	193	5.23e-13	71.3
+rnd-1_family-275#Unknown	tpg|BK000751.1|	TPA_inf: Oryza sativa transposon Rim2-M140, complete sequence	89.655	58	1	3	1	53	864	921	1.88e-12	69.4
+rnd-1_family-275#Unknown	tpg|BK000291.1|	TPA_exp: Oryza sativa transposon Rim2-M11, complete sequence	89.655	58	1	3	1	53	867	924	1.88e-12	69.4
+rnd-1_family-275#Unknown	tpg|BK000779.1|	TPA_inf: Oryza sativa transposon Rim2-M186, complete sequence	89.655	58	1	3	1	53	957	1014	1.88e-12	69.4
+rnd-1_family-275#Unknown	tpg|BK000826.1|	TPA_inf: Oryza sativa transposon Rim2-M199, complete sequence	100.000	37	0	0	17	53	1065	1029	1.88e-12	69.4
+rnd-1_family-275#Unknown	tpg|BK000837.1|	TPA_inf: Oryza sativa transposon Rim2-M206, complete sequence	100.000	37	0	0	17	53	987	1023	1.88e-12	69.4
+rnd-1_family-275#Unknown	tpg|BK000308.1|	TPA_exp: Oryza sativa transposon Rim2-M27, complete sequence	90.566	53	4	1	1	52	1093	1041	1.88e-12	69.4
+rnd-1_family-275#Unknown	tpg|BK000308.1|	TPA_exp: Oryza sativa transposon Rim2-M27, complete sequence	89.286	56	3	1	1	53	294	239	6.77e-12	67.6
+rnd-1_family-275#Unknown	tpg|BK000813.1|	TPA_inf: Oryza sativa transposon Rim2-M224, complete sequence	97.500	40	1	0	17	56	171	132	1.88e-12	69.4
+rnd-1_family-275#Unknown	tpg|BK000315.1|	TPA_exp: Oryza sativa transposon Rim2-M35, complete sequence	100.000	37	0	0	17	53	1147	1111	1.88e-12	69.4
+rnd-1_family-275#Unknown	tpg|BK000831.1|	TPA_inf: Oryza sativa transposon Rim2-M236, complete sequence	100.000	37	0	0	17	53	123	159	1.88e-12	69.4
+rnd-1_family-275#Unknown	tpg|BK000831.1|	TPA_inf: Oryza sativa transposon Rim2-M236, complete sequence	89.655	58	1	3	1	53	1048	1105	1.88e-12	69.4
+rnd-1_family-275#Unknown	tpg|BK000833.1|	TPA_inf: Oryza sativa transposon Rim2-M237, complete sequence	100.000	37	0	0	17	53	294	258	1.88e-12	69.4
+rnd-1_family-275#Unknown	tpg|BK000844.1|	TPA_inf: Oryza sativa transposon Rim2-M242, complete sequence	100.000	37	0	0	17	53	1261	1225	1.88e-12	69.4
+rnd-1_family-275#Unknown	tpg|BK000846.1|	TPA_inf: Oryza sativa transposon Rim2-M251, complete sequence	100.000	37	0	0	17	53	3626	3590	1.88e-12	69.4
+rnd-1_family-275#Unknown	tpg|BK000855.1|	TPA_inf: Oryza sativa transposon Rim2-M256, complete sequence	100.000	37	0	0	17	53	4459	4423	1.88e-12	69.4
+rnd-1_family-275#Unknown	tpg|BK000874.1|	TPA_inf: Oryza sativa transposon Rim2-M269, complete sequence	100.000	37	0	0	17	53	9321	9285	1.88e-12	69.4
+rnd-1_family-275#Unknown	tpg|BK000874.1|	TPA_inf: Oryza sativa transposon Rim2-M269, complete sequence	97.297	37	1	0	17	53	9236	9200	8.76e-11	63.9
+rnd-1_family-275#Unknown	tpg|BK000874.1|	TPA_inf: Oryza sativa transposon Rim2-M269, complete sequence	100.000	31	0	0	17	47	231	201	4.08e-09	58.4
+rnd-1_family-275#Unknown	tpg|BK000337.1|	TPA_exp: Oryza sativa (indica cultivar-group) transposon Rim2-M57 transposase gene, complete cds	100.000	37	0	0	17	53	126	162	1.88e-12	69.4
+rnd-1_family-275#Unknown	tpg|BK000337.1|	TPA_exp: Oryza sativa (indica cultivar-group) transposon Rim2-M57 transposase gene, complete cds	100.000	37	0	0	17	53	217	253	1.88e-12	69.4
+rnd-1_family-275#Unknown	tpg|BK000338.1|	TPA_exp: Oryza sativa (indica cultivar-group) transposon Rim2-M58, complete sequence	100.000	37	0	0	17	53	218	254	1.88e-12	69.4
+rnd-1_family-275#Unknown	tpg|BK000338.1|	TPA_exp: Oryza sativa (indica cultivar-group) transposon Rim2-M58, complete sequence	100.000	37	0	0	17	53	9531	9567	1.88e-12	69.4
+rnd-1_family-275#Unknown	tpg|BK000881.1|	TPA_inf: Oryza sativa transposon Rim2-M273, complete sequence	100.000	37	0	0	17	53	9758	9794	1.88e-12	69.4
+rnd-1_family-275#Unknown	tpg|BK000344.1|	TPA_exp: Oryza sativa (indica cultivar-group) transposon Rim2-M64 transposase gene, complete cds	100.000	37	0	0	17	53	277	241	1.88e-12	69.4
+rnd-1_family-275#Unknown	tpg|BK000344.1|	TPA_exp: Oryza sativa (indica cultivar-group) transposon Rim2-M64 transposase gene, complete cds	95.000	40	2	0	11	50	283	322	8.76e-11	63.9
+rnd-1_family-275#Unknown	tpg|BK000899.1|	TPA_inf: Oryza sativa transposon Rim2-M279, complete sequence	100.000	37	0	0	17	53	147	183	1.88e-12	69.4
+rnd-1_family-275#Unknown	tpg|BK000867.1|	TPA_inf: Oryza sativa transposon Rim2-M281, complete sequence	100.000	37	0	0	17	53	10530	10566	1.88e-12	69.4
+rnd-1_family-275#Unknown	gb|AY090462.1|	Oryza sativa (indica cultivar-group) transposon CACTG element Rim2-228, complete sequence	100.000	37	0	0	17	53	10743	10779	1.88e-12	69.4
+rnd-1_family-275#Unknown	tpg|BK000884.1|	TPA_inf: Oryza sativa transposon Rim2-M289, complete sequence	100.000	37	0	0	17	53	172	136	1.88e-12	69.4
+rnd-1_family-275#Unknown	tpg|BK000889.1|	TPA_inf: Oryza sativa transposon Rim2-M292, complete sequence	100.000	37	0	0	17	53	10673	10709	1.88e-12	69.4
+rnd-1_family-275#Unknown	tpg|BK000348.1|	TPA_exp: Oryza sativa (indica cultivar-group) transposon Rim2-M68, complete sequence	100.000	37	0	0	17	53	10844	10880	1.88e-12	69.4
+rnd-1_family-275#Unknown	tpg|BK000900.1|	TPA_inf: Oryza sativa transposon Rim2-M299, complete sequence	100.000	37	0	0	17	53	10849	10885	1.88e-12	69.4
+rnd-1_family-275#Unknown	tpg|BK000902.1|	TPA_inf: Oryza sativa transposon Rim2-M300, complete sequence	100.000	37	0	0	17	53	160	196	1.88e-12	69.4
+rnd-1_family-275#Unknown	tpg|BK000904.1|	TPA_inf: Oryza sativa transposon Rim2-M301, complete sequence	100.000	37	0	0	17	53	10860	10896	1.88e-12	69.4
+rnd-1_family-275#Unknown	tpg|BK000917.1|	TPA_inf: Oryza sativa transposon Rim2-M308, complete sequence	100.000	37	0	0	17	53	123	159	1.88e-12	69.4
+rnd-1_family-275#Unknown	tpg|BK000917.1|	TPA_inf: Oryza sativa transposon Rim2-M308, complete sequence	89.286	56	3	3	1	53	270	215	6.77e-12	67.6
+rnd-1_family-275#Unknown	tpg|BK000919.1|	TPA_inf: Oryza sativa transposon Rim2-M309, complete sequence	100.000	37	0	0	17	53	214	250	1.88e-12	69.4
+rnd-1_family-275#Unknown	tpg|BK000919.1|	TPA_inf: Oryza sativa transposon Rim2-M309, complete sequence	93.617	47	2	1	8	53	11053	11007	1.88e-12	69.4
+rnd-1_family-275#Unknown	tpg|BK000918.1|	TPA_inf: Oryza sativa transposon Rim2-M317, complete sequence	100.000	37	0	0	17	53	11310	11274	1.88e-12	69.4
+rnd-1_family-275#Unknown	tpg|BK000930.1|	TPA_inf: Oryza sativa transposon Rim2-M327, complete sequence	100.000	37	0	0	17	53	12265	12229	1.88e-12	69.4
+rnd-1_family-275#Unknown	tpg|BK000356.1|	TPA_exp: Oryza sativa transposon Rim2-M76 transposase gene, complete cds	100.000	37	0	0	17	53	12041	12005	1.88e-12	69.4
+rnd-1_family-275#Unknown	tpg|BK000356.1|	TPA_exp: Oryza sativa transposon Rim2-M76 transposase gene, complete cds	100.000	37	0	0	17	53	12460	12424	1.88e-12	69.4
+rnd-1_family-275#Unknown	tpg|BK000356.1|	TPA_exp: Oryza sativa transposon Rim2-M76 transposase gene, complete cds	89.091	55	4	1	1	53	11895	11949	6.77e-12	67.6
+rnd-1_family-275#Unknown	tpg|BK000356.1|	TPA_exp: Oryza sativa transposon Rim2-M76 transposase gene, complete cds	89.091	55	4	1	1	53	12330	12384	6.77e-12	67.6
+rnd-1_family-275#Unknown	tpg|BK000936.1|	TPA_inf: Oryza sativa transposon Rim2-M330, complete sequence	100.000	37	0	0	17	53	307	271	1.88e-12	69.4
+rnd-1_family-275#Unknown	tpg|BK000361.1|	TPA_exp: Oryza sativa transposon Rim2-M80 transposase gene, complete cds	100.000	37	0	0	17	53	14128	14164	1.88e-12	69.4
+rnd-1_family-275#Unknown	tpg|BK000942.1|	TPA_inf: Oryza sativa transposon Rim2-M334, complete sequence	100.000	37	0	0	17	53	14502	14466	1.88e-12	69.4
+rnd-1_family-275#Unknown	tpg|BK000363.1|	TPA_exp: Oryza sativa transposon Rim2-M83 transposase gene, complete cds	100.000	37	0	0	17	53	4315	4279	1.88e-12	69.4
+rnd-1_family-275#Unknown	tpg|BK000366.1|	TPA_exp: Oryza sativa transposon Rim2-M86 transposase gene, complete cds	100.000	37	0	0	17	53	218	254	1.88e-12	69.4
+rnd-1_family-275#Unknown	tpg|BK000366.1|	TPA_exp: Oryza sativa transposon Rim2-M86 transposase gene, complete cds	100.000	37	0	0	17	53	9531	9567	1.88e-12	69.4
+rnd-1_family-275#Unknown	tpg|BK000778.1|	TPA_inf: Oryza sativa transposon Rim2-M150, complete sequence	100.000	36	0	0	17	52	184	149	6.77e-12	67.6
+rnd-1_family-275#Unknown	tpg|BK000774.1|	TPA_inf: Oryza sativa transposon Rim2-M184, complete sequence	100.000	36	0	0	17	52	1024	989	6.77e-12	67.6
+rnd-1_family-275#Unknown	tpg|BK000839.1|	TPA_inf: Oryza sativa transposon Rim2-M207, complete sequence	100.000	36	0	0	18	53	1023	988	6.77e-12	67.6
+rnd-1_family-275#Unknown	tpg|BK000306.1|	TPA_exp: Oryza sativa transposon Rim2-M26, complete sequence	100.000	36	0	0	18	53	1049	1084	6.77e-12	67.6
+rnd-1_family-275#Unknown	tpg|BK000817.1|	TPA_inf: Oryza sativa transposon Rim2-M228, complete sequence	100.000	36	0	0	17	52	1124	1159	6.77e-12	67.6
+rnd-1_family-275#Unknown	tpg|BK000817.1|	TPA_inf: Oryza sativa transposon Rim2-M228, complete sequence	89.091	55	3	2	1	53	239	292	2.44e-11	65.8
+rnd-1_family-275#Unknown	tpg|BK000817.1|	TPA_inf: Oryza sativa transposon Rim2-M228, complete sequence	100.000	28	0	0	23	50	195	168	1.90e-07	52.8
+rnd-1_family-275#Unknown	tpg|BK000818.1|	TPA_inf: Oryza sativa transposon Rim2-M229, complete sequence	100.000	36	0	0	18	53	137	172	6.77e-12	67.6
+rnd-1_family-275#Unknown	tpg|BK000818.1|	TPA_inf: Oryza sativa transposon Rim2-M229, complete sequence	97.297	37	1	0	17	53	1162	1198	8.76e-11	63.9
+rnd-1_family-275#Unknown	tpg|BK000856.1|	TPA_inf: Oryza sativa transposon Rim2-M248, complete sequence	100.000	36	0	0	18	53	2355	2320	6.77e-12	67.6
+rnd-1_family-275#Unknown	tpg|BK000854.1|	TPA_inf: Oryza sativa transposon Rim2-M255, complete sequence	89.286	56	2	2	1	52	4225	4280	6.77e-12	67.6
+rnd-1_family-275#Unknown	tpg|BK000328.1|	TPA_exp: Oryza sativa transposon Rim2-M48, complete sequence	100.000	36	0	0	18	53	4883	4918	6.77e-12	67.6
+rnd-1_family-275#Unknown	tpg|BK000882.1|	TPA_inf: Oryza sativa transposon Rim2-M287, complete sequence	100.000	36	0	0	18	53	10678	10643	6.77e-12	67.6
+rnd-1_family-275#Unknown	gb|KM190080.1|	Oryza sativa Japonica Group cultivar Lemont STV11-pa1 protein (STV11-pa1) gene, complete cds; transposon RIM2, partial sequence; STV11 (STV-bi) gene, complete sequence; STV11 (STV11) gene, complete cds; and STV11S (STV11) gene, complete sequence	100.000	36	0	0	18	53	18897	18862	6.77e-12	67.6
+rnd-1_family-275#Unknown	tpg|BK000741.1|	TPA_inf: Oryza sativa transposon Rim2-M161, complete sequence	88.889	54	5	1	1	53	267	214	2.44e-11	65.8
+rnd-1_family-275#Unknown	tpg|BK000743.1|	TPA_inf: Oryza sativa transposon Rim2-M163, complete sequence	91.667	48	3	1	1	47	906	859	2.44e-11	65.8
+rnd-1_family-275#Unknown	tpg|BK000799.1|	TPA_inf: Oryza sativa transposon Rim2-M2, complete sequence	100.000	35	0	0	19	53	215	181	2.44e-11	65.8
+rnd-1_family-275#Unknown	tpg|BK000325.1|	TPA_exp: Oryza sativa transposon Rim2-M47 transposase gene, complete cds	100.000	35	0	0	17	51	4312	4346	2.44e-11	65.8
+rnd-1_family-275#Unknown	tpg|BK000339.1|	TPA_exp: Oryza sativa (indica cultivar-group) transposon Rim2-M59 transposase gene, complete cds	100.000	35	0	0	19	53	187	221	2.44e-11	65.8
+rnd-1_family-275#Unknown	tpg|BK000896.1|	TPA_inf: Oryza sativa transposon Rim2-M297, complete sequence	95.122	41	2	0	17	57	185	145	2.44e-11	65.8
+rnd-1_family-275#Unknown	tpg|BK000916.1|	TPA_inf: Oryza sativa transposon Rim2-M307, complete sequence	95.122	41	2	0	17	57	10931	10971	2.44e-11	65.8
+rnd-1_family-275#Unknown	tpg|BK000349.1|	TPA_exp: Oryza sativa (indica cultivar-group) transposon Rim2-M69 transposase gene, complete cds	95.122	41	2	0	17	57	10934	10974	2.44e-11	65.8
+rnd-1_family-275#Unknown	tpg|BK000730.1|	TPA_inf: Oryza sativa transposon Rim2-M130, complete sequence	97.297	37	1	0	17	53	158	122	8.76e-11	63.9
+rnd-1_family-275#Unknown	tpg|BK000730.1|	TPA_inf: Oryza sativa transposon Rim2-M130, complete sequence	97.297	37	1	0	17	53	213	249	8.76e-11	63.9
+rnd-1_family-275#Unknown	tpg|BK000768.1|	TPA_inf: Oryza sativa transposon Rim2-M145, complete sequence	97.297	37	1	0	17	53	123	159	8.76e-11	63.9
+rnd-1_family-275#Unknown	tpg|BK000769.1|	TPA_inf: Oryza sativa transposon Rim2-M146, complete sequence	97.297	37	1	0	17	53	172	136	8.76e-11	63.9
+rnd-1_family-275#Unknown	tpg|BK000785.1|	TPA_inf: Oryza sativa transposon Rim2-M153, complete sequence	97.297	37	1	0	17	53	159	123	8.76e-11	63.9
+rnd-1_family-275#Unknown	tpg|BK000299.1|	TPA_exp: Oryza sativa transposon Rim2-M19, complete sequence	97.297	37	1	0	17	53	974	1010	8.76e-11	63.9
+rnd-1_family-275#Unknown	tpg|BK000793.1|	TPA_inf: Oryza sativa transposon Rim2-M194, complete sequence	97.297	37	1	0	17	53	123	159	8.76e-11	63.9
+rnd-1_family-275#Unknown	tpg|BK000794.1|	TPA_inf: Oryza sativa transposon Rim2-M195, complete sequence	97.297	37	1	0	17	53	112	148	8.76e-11	63.9
+rnd-1_family-275#Unknown	tpg|BK000794.1|	TPA_inf: Oryza sativa transposon Rim2-M195, complete sequence	97.297	37	1	0	17	53	182	218	8.76e-11	63.9
+rnd-1_family-275#Unknown	tpg|BK000802.1|	TPA_inf: Oryza sativa transposon Rim2-M213, complete sequence	88.679	53	4	2	1	52	1104	1053	8.76e-11	63.9
+rnd-1_family-275#Unknown	tpg|BK000802.1|	TPA_inf: Oryza sativa transposon Rim2-M213, complete sequence	97.297	37	1	0	17	53	1094	1130	8.76e-11	63.9
+rnd-1_family-275#Unknown	tpg|BK000802.1|	TPA_inf: Oryza sativa transposon Rim2-M213, complete sequence	100.000	31	0	0	23	53	132	162	4.08e-09	58.4
+rnd-1_family-275#Unknown	tpg|BK000821.1|	TPA_inf: Oryza sativa transposon Rim2-M231, complete sequence	97.297	37	1	0	17	53	112	148	8.76e-11	63.9
+rnd-1_family-275#Unknown	tpg|BK000838.1|	TPA_inf: Oryza sativa transposon Rim2-M239, complete sequence	97.297	37	1	0	17	53	1229	1265	8.76e-11	63.9
+rnd-1_family-275#Unknown	tpg|BK000838.1|	TPA_inf: Oryza sativa transposon Rim2-M239, complete sequence	87.037	54	6	1	1	53	1148	1095	1.13e-09	60.2
+rnd-1_family-275#Unknown	tpg|BK000838.1|	TPA_inf: Oryza sativa transposon Rim2-M239, complete sequence	87.037	54	6	1	1	53	1239	1186	1.13e-09	60.2
+rnd-1_family-275#Unknown	tpg|BK000868.1|	TPA_inf: Oryza sativa transposon Rim2-M265, complete sequence	97.297	37	1	0	17	53	260	224	8.76e-11	63.9
+rnd-1_family-275#Unknown	tpg|BK000872.1|	TPA_inf: Oryza sativa transposon Rim2-M268, complete sequence	97.297	37	1	0	17	53	251	215	8.76e-11	63.9
+rnd-1_family-275#Unknown	tpg|BK000888.1|	TPA_inf: Oryza sativa transposon Rim2-M275, complete sequence	97.297	37	1	0	17	53	185	149	8.76e-11	63.9
+rnd-1_family-275#Unknown	tpg|BK000890.1|	TPA_inf: Oryza sativa transposon Rim2-M276, complete sequence	97.297	37	1	0	17	53	123	159	8.76e-11	63.9
+rnd-1_family-275#Unknown	tpg|BK000875.1|	TPA_inf: Oryza sativa transposon Rim2-M284, complete sequence	97.297	37	1	0	17	53	280	244	8.76e-11	63.9
+rnd-1_family-275#Unknown	tpg|BK000346.1|	TPA_exp: Oryza sativa (indica cultivar-group) transposon Rim2-M66, complete sequence	97.297	37	1	0	17	53	10527	10491	8.76e-11	63.9
+rnd-1_family-275#Unknown	tpg|BK000912.1|	TPA_inf: Oryza sativa transposon Rim2-M305, complete sequence	97.297	37	1	0	17	53	10863	10899	8.76e-11	63.9
+rnd-1_family-275#Unknown	tpg|BK000920.1|	TPA_inf: Oryza sativa transposon Rim2-M318, complete sequence	97.297	37	1	0	17	53	123	159	8.76e-11	63.9
+rnd-1_family-275#Unknown	tpg|BK000725.1|	TPA_inf: Oryza sativa transposon Rim2-M113, complete sequence	97.222	36	1	0	18	53	157	122	3.15e-10	62.1
+rnd-1_family-275#Unknown	tpg|BK000723.1|	TPA_inf: Oryza sativa transposon Rim2-M128, complete sequence	97.222	36	1	0	18	53	883	848	3.15e-10	62.1
+rnd-1_family-275#Unknown	tpg|BK000736.1|	TPA_inf: Oryza sativa transposon Rim2-M134, complete sequence	97.222	36	1	0	18	53	916	881	3.15e-10	62.1
+rnd-1_family-275#Unknown	tpg|BK000736.1|	TPA_inf: Oryza sativa transposon Rim2-M134, complete sequence	100.000	28	0	0	20	47	225	252	1.90e-07	52.8
+rnd-1_family-275#Unknown	tpg|BK000303.1|	TPA_exp: Oryza sativa transposon Rim2-M23, complete sequence	97.222	36	1	0	18	53	1004	1039	3.15e-10	62.1
+rnd-1_family-275#Unknown	tpg|BK000303.1|	TPA_exp: Oryza sativa transposon Rim2-M23, complete sequence	94.595	37	2	0	17	53	912	948	4.08e-09	58.4
+rnd-1_family-275#Unknown	tpg|BK000852.1|	TPA_inf: Oryza sativa transposon Rim2-M254, complete sequence	97.297	37	0	1	17	53	4003	4038	3.15e-10	62.1
+rnd-1_family-275#Unknown	tpg|BK000852.1|	TPA_inf: Oryza sativa transposon Rim2-M254, complete sequence	96.970	33	0	1	21	53	3998	3967	5.27e-08	54.7
+rnd-1_family-275#Unknown	tpg|BK000911.1|	TPA_inf: Oryza sativa transposon Rim2-M314, complete sequence	91.304	46	2	1	8	53	179	136	3.15e-10	62.1
+rnd-1_family-275#Unknown	tpg|BK000934.1|	TPA_inf: Oryza sativa transposon Rim2-M342, complete sequence	91.304	46	3	1	1	45	21936	21891	3.15e-10	62.1
+rnd-1_family-275#Unknown	tpg|BK000714.1|	TPA_inf: Oryza sativa transposon Rim2-M125, complete sequence	97.143	35	1	0	17	51	163	129	1.13e-09	60.2
+rnd-1_family-275#Unknown	tpg|BK000320.1|	TPA_exp: Oryza sativa transposon Rim2-M40, complete sequence	87.037	54	6	1	1	53	1131	1078	1.13e-09	60.2
+rnd-1_family-275#Unknown	tpg|BK000851.1|	TPA_inf: Oryza sativa transposon Rim2-M246, complete sequence	87.037	54	6	1	1	53	120	67	1.13e-09	60.2
+rnd-1_family-275#Unknown	tpg|BK000347.1|	TPA_exp: Oryza sativa (indica cultivar-group) transposon Rim2-M67 transposase gene, complete cds	100.000	32	0	0	17	48	10899	10930	1.13e-09	60.2
+rnd-1_family-275#Unknown	tpg|BK000732.1|	TPA_inf: Oryza sativa transposon Rim2-M131, complete sequence	94.595	37	2	0	17	53	871	907	4.08e-09	58.4
+rnd-1_family-275#Unknown	tpg|BK000842.1|	TPA_inf: Oryza sativa transposon Rim2-M209, complete sequence	94.595	37	2	0	17	53	111	147	4.08e-09	58.4
+rnd-1_family-275#Unknown	tpg|BK000801.1|	TPA_inf: Oryza sativa transposon Rim2-M212, complete sequence	94.595	37	2	0	17	53	943	907	4.08e-09	58.4
+rnd-1_family-275#Unknown	tpg|BK000307.1|	TPA_exp: Oryza sativa transposon Rim2-M29, complete sequence	100.000	31	0	0	17	47	1056	1086	4.08e-09	58.4
+rnd-1_family-275#Unknown	tpg|BK000858.1|	TPA_inf: Oryza sativa transposon Rim2-M257, complete sequence	94.595	37	2	0	17	53	237	201	4.08e-09	58.4
+rnd-1_family-275#Unknown	tpg|BK000876.1|	TPA_inf: Oryza sativa transposon Rim2-M270, complete sequence	94.595	37	2	0	17	53	230	194	4.08e-09	58.4
+rnd-1_family-275#Unknown	tpg|BK000924.1|	TPA_inf: Oryza sativa transposon Rim2-M320, complete sequence	97.059	34	1	0	14	47	1104	1137	4.08e-09	58.4
+rnd-1_family-275#Unknown	tpg|BK000923.1|	TPA_inf: Oryza sativa transposon Rim2-M324, complete sequence	100.000	31	0	0	17	47	719	749	4.08e-09	58.4
+rnd-1_family-275#Unknown	tpg|BK000360.1|	TPA_exp: Oryza sativa transposon Rim2-M81 transposase gene, complete cds	94.595	37	2	0	17	53	240	204	4.08e-09	58.4
+rnd-1_family-275#Unknown	tpg|BK000939.1|	TPA_inf: Oryza sativa transposon Rim2-M339, complete sequence	100.000	31	0	0	17	47	15520	15490	4.08e-09	58.4
+rnd-1_family-275#Unknown	tpg|BK000939.1|	TPA_inf: Oryza sativa transposon Rim2-M339, complete sequence	100.000	31	0	0	17	47	15556	15526	4.08e-09	58.4
+rnd-1_family-275#Unknown	tpg|BK000362.1|	TPA_exp: Oryza sativa transposon Rim2-M82 transposase gene, complete cds	94.595	37	2	0	17	53	233	197	4.08e-09	58.4
+rnd-1_family-275#Unknown	tpg|BK000800.1|	TPA_inf: Oryza sativa transposon Rim2-M211, complete sequence	94.444	36	2	0	17	52	1096	1061	1.47e-08	56.5
+rnd-1_family-275#Unknown	tpg|BK000309.1|	TPA_exp: Oryza sativa transposon Rim2-M28, complete sequence	100.000	30	0	0	18	47	180	209	1.47e-08	56.5
+rnd-1_family-275#Unknown	tpg|BK000734.1|	TPA_inf: Oryza sativa transposon Rim2-M132, complete sequence	87.500	48	5	1	1	47	222	269	5.27e-08	54.7
+rnd-1_family-275#Unknown	tpg|BK000913.1|	TPA_inf: Oryza sativa transposon Rim2-M315, complete sequence	100.000	29	0	0	17	45	11099	11127	5.27e-08	54.7
+rnd-1_family-275#Unknown	tpg|BK000749.1|	TPA_inf: Oryza sativa transposon Rim2-M167, complete sequence	100.000	28	0	0	23	50	268	241	1.90e-07	52.8
+rnd-1_family-275#Unknown	tpg|BK000313.1|	TPA_exp: Oryza sativa transposon Rim2-M33, complete sequence	100.000	28	0	0	23	50	198	171	1.90e-07	52.8
+rnd-1_family-275#Unknown	tpg|BK000316.1|	TPA_exp: Oryza sativa transposon Rim2-M36, complete sequence	100.000	28	0	0	23	50	179	152	1.90e-07	52.8

@@ -46,25 +46,26 @@ with open('reclassified_' + ntpath.basename(args.mfilename) + '.txt') as fasta_f
         # print(seq_record.id)
         for blast_record in open(ntpath.basename(args.mfilename) + '_blastout.txt'):
             df = (pd.DataFrame(blast_record.split('\t')))
-            if any(c in df[0][2] for c in LTR_array):
-                if "#Unknown" in df[0][0]:
-                    count_LTR+=1
-            elif any(d in df[0][2] for d in DNA_array):
-                if "#Unknown" in df[0][0]:
-                    count_DNA+=1
-            elif any(e in df[0][2] for e in HEL_array):
-                if "#Unknown" in df[0][0]:
-                    count_Helitron+=1
+        #     # print(df[0][0])
+            if "#Unknown" in df[0][0] and df[0][0] == seq_record.id and any(c in df[0][2] for c in LTR_array):
+                count_LTR+=1
+                print(">" + seq_record.id.split("#")[0] + "#LTR", file=sample)
+                print(seq_record.seq, file=sample)
+            elif "#Unknown" in df[0][0] and df[0][0] == seq_record.id and any(d in df[0][2] for d in DNA_array):
+                count_DNA+=1
+                print(">" + seq_record.id.split("#")[0] + "#DNA", file=sample)
+                print(seq_record.seq, file=sample)
+            elif "#Unknown" in df[0][0] and df[0][0] == seq_record.id and any(e in df[0][2] for e in HEL_array):
+                count_Helitron+=1
+                print(">" + seq_record.id.split("#")[0]  + "#RC/Helitron", file=sample)
+                print(seq_record.seq, file=sample)
             else:
-                count_Unknown+=1
+                # count_Unknown+=1
                 continue  # Breaking here gives you only the best HSP.
-
-        print(">" + seq_record.id, file=sample)
-        print(seq_record.seq, file=sample)
 
 sample.close()
 
 sumTE = count_LTR + count_DNA  + count_Helitron
 print("Total reclassified : " + str(sumTE))
-# print("count_LTR" +"\t"+ "count_DNA" +"\t"+ "count_Helitron" +"\t"+ "count_Unknown")
-# print(str(count_LTR) +"\t"+ str(count_DNA) +"\t"+ str(count_Helitron) +"\t"+ str(count_Unknown))
+print("count_LTR" +"\t"+ "count_DNA" +"\t"+ "count_Helitron")
+print(str(count_LTR) +"\t"+ str(count_DNA) +"\t"+ str(count_Helitron))
