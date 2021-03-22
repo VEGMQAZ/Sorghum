@@ -59,8 +59,8 @@ with open('reclassified_' + ntpath.basename(args.mfilename) + '.txt') as fasta_f
                 count_Unknown+=1
                 continue  # Breaking here gives you only the best HSP.
 
-            print(">" + seq_record.id, file=sample)
-            print(seq_record.seq, file=sample)
+        print(">" + seq_record.id, file=sample)
+        print(seq_record.seq, file=sample)
 
 sample.close()
 
