@@ -1,6 +1,6 @@
 ## Introduction
 
-Sorghum is a widely grown cereal crop originating from Africa.Five primary landraces: *durra*, *guinea*, *caudatum*, *kafir*, and *bicolor* (*BTx623*)Traits: *Heat tolerant, drought tolerant, and nitrogen efficient*A very diverse species with various uses ranging from consumption by humans and livestock, to biomass.
+Sorghum is a widely grown cereal crop originating from Africa.Five primary landraces: *durra*, *guinea*, *caudatum*, *kafir*, and *bicolor* (*BTx623*)Traits: *Heat tolerant, drought tolerant, and nitrogen efficient*. A very diverse species with various uses ranging from consumption by humans and livestock, to biomass.
 
 ## Motivation
 
@@ -8,7 +8,7 @@ A holistic understanding of sorghum biodiversity through studying its genetic ar
 
 Cultivation around the world has declined over the last four decades at a rate of over 0.15 million hectares per year with production peaking during the 80s; Followed by a decline by ~13–15 % per year” - *(Hariprasanna, 2017)*.
 
-Countries including Brazil, Ethiopia, Sudan, Australia, Mexico, Nigeria, and Burkina Faso have expanded cultivationWith the advent of global warming and increasing temperatures and instances of drought, Sorghum becomes increasing importantWild types in particular are of interest due to their potential contributions to sorghum biodiversity
+Countries including Brazil, Ethiopia, Sudan, Australia, Mexico, Nigeria, and Burkina Faso have expanded cultivation. With the advent of global warming and increasing temperatures and instances of drought, Sorghum becomes increasing important. Wild types in particular are of interest due to their potential contributions to sorghum biodiversity.
 
 ## Sorghum Reference Mobilome
 
@@ -18,7 +18,7 @@ Sorghum (*Sorghum bicolor,* BTx623) contains 20,240 uniquely identified TE seque
 
 ### Mobilome Composition
 
-General characterization of repeats shows a high portion of the genome consists of (1) Class I (LTR), (2) simple repeats and (3) Unknown elements. This is consistent with observations of repeats in other *Poaceae*.Repetitive elements by themselves are known to be mutagenic in the advent of insertion into exonic regions.
+General characterization of repeats shows a high portion of the genome consists of (1) Class I (LTR), (2) simple repeats and (3) Unknown elements. This is consistent with observations of repeats in other *Poaceae*. Repetitive elements by themselves are known to be mutagenic in the advent of insertion into exonic regions.
 
 ## TIPs: Transposon Insertion-site Polymorphisms
 
