@@ -1,122 +1,35 @@
-# Workflow
+## Introduction
 
-## Pre-reqs
+Sorghum is a widely grown cereal crop originating from Africa.Five primary landraces: *durra*, *guinea*, *caudatum*, *kafir*, and *bicolor* (*BTx623*)Traits: *Heat tolerant, drought tolerant, and nitrogen efficient*A very diverse species with various uses ranging from consumption by humans and livestock, to biomass.
 
-rmsk2bed
-bedtools
-bedops
-samtools
-Picard
+## Motivation
 
-**Repeatmasker .out conversion to .bed and formating**
+A holistic understanding of sorghum biodiversity through studying its genetic architecture and the various mechanisms contributing said biodiversity, namely TIPs (Transposon Insertion-site Polymorphisms).
 
-1. To perform TE insertion detection we need the following files:
-    1. Reference fasta
-    2. Reference geneome .out file from RepeatMasker (TEs)
-    3. Installed pre-req’d packages.
-2. Running the following commands will generate the required files for analysis:
-    # Change directory to working directory of TEFinder
-    cd /users/sburkes/bin/TEfinder
-    
-    # Location of the reference genome fasta file
-    SORGUM_REF='/scratch/sburkes/Sorghum/Sbicolor_454_v3.0.1.fa'
-    
-    # Removes simple repeats from RepeatMasker .out
-    grep -v -iE '(Motif\:[ATGC]+\-rich)|(Motif\:\([ATGC]+\)n)' /scratch/sburkes/Results/results_Sbicolor_454_v3/repeatmasker_out/Sbicolor_454_v3.0.1.fa.out > TEs.gtf
-    
-    # Converts .out from RepeatMasker into .bed file.
-    rmsk2bed < TEs.gtf bedops --merge - > Sbicolor_454_v3.0.1.bed
-    
-    # Commented out 08/12/21
-    ## Limits to LTR/Copia elements, truncates to the first element entry in .bed
-    # cat Sbicolor_454_v3.0.1.bed | cut -d, -f11 | grep "LTR/Copia" > truncated.bed
-    
-    # 
-    cat Sbicolor_454_v3.0.1.bed > truncated.bed
-    
-    # Removes asterisk characters
-    tr -d '*' < truncated.bed > Sbicolor_truncated_rmchar.bed
-    
-    # Converts .bed coordinates from .bed to fasta
-    bedtools getfasta -fi $SORGUM_REF -name -bed Sbicolor_truncated_rmchar.bed > Sbicolor_454_v3.0.1_TE_truncated.fa
-    
-    sed 's/::.*//' Sbicolor_454_v3.0.1_TE_truncated.fa > Sbicolor_454_v3.0.1_TE_truncated_format.fa
-    
-    # Outputs fasta entries into .txt file
-    grep -e ">" Sbicolor_454_v3.0.1_TE_truncated_format.fa | awk 'sub(/^>/, "")' >> TE_list.txt
+Cultivation around the world has declined over the last four decades at a rate of over 0.15 million hectares per year with production peaking during the 80s; Followed by a decline by ~13–15 % per year” - *(Hariprasanna, 2017)*.
 
+Countries including Brazil, Ethiopia, Sudan, Australia, Mexico, Nigeria, and Burkina Faso have expanded cultivationWith the advent of global warming and increasing temperatures and instances of drought, Sorghum becomes increasing importantWild types in particular are of interest due to their potential contributions to sorghum biodiversity
 
-**Detect TE insertions**
+## Sorghum Reference Mobilome
 
-1. Once the setup and gathering of files is complete, we can proceed with the discovery of non-reference TE insertions using the following script:
-    # Change directory to working directory of TEFinder
-    cd /users/sburkes/bin/TEfinder
-    
-    # Execute TEFinder script with prior generated files
-    bash /users/sburkes/bin/TEfinder/TEfinder -alignment $f -fa /scratch/sburkes/Sorghum/Sbicolor_454_v3.0.1.fa -gtf /scratch/sburkes/Results/results_Sbicolor_454_v3/repeatmasker_out/Sbicolor_454_v3.0.1.fa.out.gff -te /users/sburkes/bin/TEfinder/TE_list.txt
-    
-    # For the sake of time, this can be looped like so:
-    # Running TEfinder interactively in bash
-    for f in /projects/cooper_research1/Wild_Sorghum_WGS/bam_wild/G*.bam; do
-        name=$(basename $f| cut -f1 -d'.')
-        printf $name
-        mkdir $name
-        cd $name
-    
-        # Cluster submission using Slurm
-        sbatch -t '72:00:00' -N 1 --mem=48gb --ntasks-per-node=32 -o $name'_TIP'.%j --wrap="bash /users/sburkes/bin/TEfinder/TEfinder -alignment $f -fa /scratch/sburkes/Sorghum/Sbicolor_454_v3.0.1.fa -gtf /scratch/sburkes/Results/results_Sbicolor_454_v3/repeatmasker_out/Sbicolor_454_v3.0.1.fa.out.gff -te /users/sburkes/bin/TEfinder/TE_list.txt"
-    
-        # Single run
-        # bash ~/bin/TEfinder/TEfinder -alignment $f -fa /scratch/sburkes/Sorghum/Sbicolor_454_v3.0.1.fa -gtf /scratch/sburkes/Results/results_Sbicolor_454_v3/repeatmasker_out/Sbicolor_454_v3.0.1.fa.out.gff -te ~/bin/TEfinder/TE_list.txt
-        # Complete run output
-        # echo 'Analysis Complete. Runtime below:'
-        # echo $start
-        # echo $end
-    
-        cd ..
-    done
+![img](/img/01.png)
 
+Sorghum (*Sorghum bicolor,* BTx623) contains 20,240 uniquely identified TE sequences identified using RepeatModeler2 and RepeatMasker (v4.10).
 
+### Mobilome Composition
 
-## Visualization
-- To visualize site from detected insertions (as of 6/23 9:00pm):
+General characterization of repeats shows a high portion of the genome consists of (1) Class I (LTR), (2) simple repeats and (3) Unknown elements. This is consistent with observations of repeats in other *Poaceae*.Repetitive elements by themselves are known to be mutagenic in the advent of insertion into exonic regions.
 
+## TIPs: Transposon Insertion-site Polymorphisms
 
-    # Aggregate insertion site bed files
-    cat *sites.bed > /nobackup/cooper_research/Shel/TIP_Analysis/merged_insertion-sites.bed
-    
-    # Import libraries and bed file.
-    import pandas as pd
-    sb = pd.read_csv('Sbicolor_454_v3.0.1.bed', delimiter='\t', index_col=False, names=['Chromosome', 'Start','Stop', 'ID',5,6,7,8,9,10,'Superfamily',12,13,14])
-    
-    # Get value_counts of unique TE superfamilies
-    sb['Superfamily'].value_counts()
+TIPs are sequences derived from TSD (target-site duplications) created upon insertion of a transposable element into a given loci.
 
+Variants within TSDs and other insertion sites are known as TIPs, and these are believed to contribute to phenotypic variants, and potentially impact gene expression *(Domínguez, 2020)*
 
-- To Create **Plots using R (**[**Source**](https://www.biostars.org/p/69748/)**)**
-    # check if ggplot2 is installed, if so, load it, 
-    # if not, install and load it
-    if("ggplot2" %in% rownames(installed.packages())){
-        library(ggplot2)
-    } else {
-        install.packages("ggplot2")
-        library(ggplot2)
-    }
-    
-    # import a text file with gene positions
-    # columns should be: chr, position (no end or gene name required)
-    genes <- read.table("genes.txt",sep="\t",header=T)
-    
-    # make sure the chromosomes are ordered in the way you want
-    # them to appear in the plot
-    genes$chr <- with(genes, factor(chr, levels=paste("chr",c(1:22,"X","Y"),sep=""), ordered=TRUE))
-    
-    # make a density plot of genes over the provided chromosomes (or scaffolds ...)
-    plottedGenes <- ggplot(genes) + geom_histogram(aes(x=pos),binwidth=1000000) + facet_wrap(~chr,ncol=2) + ggtitle("RefSeq genes density over human genome 19") + xlab("Genomic position (bins 1 Mb)") + ylab("Number of genes")
-    
-    # save it to an image
-    png("genes.png",width=1000,height=1500)
-    print(plottedGenes)
-    dev.off()
-- **Calculate Gene Density Per Kb And Plot Density Over Position For All Scaffolds Of A Draft Genome Using R**
+Site duplications vary in size and components, depending on the superfamily of TE 
 
+- e.g. LTRs often contain their own promoters; MITEs often contain transcription factor binding sites (Vendrell-Mir, 2015)*
+
+GWAS have historically focused on association studies of SNPs and indels; Consideration of larger structural variations, which tend to occur at lower frequencies.
+
+- “Numerous domestication and agronomic traits have been associated with particular TE insertions, the specific contribution of TEs to the phenotypic diversification of crop species is poorly documented” — *(Domínguez, 2020)*
