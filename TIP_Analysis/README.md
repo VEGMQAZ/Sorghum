@@ -1,80 +1,81 @@
-# Workflow
+# TIPs Detection Workflow in Sorghum
 
 ## Pre-reqs
 
-rmsk2bed
-bedtools
-bedops
-samtools
-Picard
+- Rmsk2bed
+- Bedtools
+- Bedops
+- Samtools
+- Picard
 
 **Repeatmasker .out conversion to .bed and formating**
 
-1. To perform TE insertion detection we need the following files:
-    1. Reference fasta
-    2. Reference geneome .out file from RepeatMasker (TEs)
-    3. Installed pre-req’d packages.
-2. Running the following commands will generate the required files for analysis:
-    # Change directory to working directory of TEFinder
-    cd /users/sburkes/bin/TEfinder
-    
-    # Location of the reference genome fasta file
-    SORGUM_REF='/scratch/sburkes/Sorghum/Sbicolor_454_v3.0.1.fa'
-    
-    # Removes simple repeats from RepeatMasker .out
-    grep -v -iE '(Motif\:[ATGC]+\-rich)|(Motif\:\([ATGC]+\)n)' /scratch/sburkes/Results/results_Sbicolor_454_v3/repeatmasker_out/Sbicolor_454_v3.0.1.fa.out > TEs.gtf
-    
-    # Converts .out from RepeatMasker into .bed file.
-    rmsk2bed < TEs.gtf bedops --merge - > Sbicolor_454_v3.0.1.bed
-    
-    # Commented out 08/12/21
-    ## Limits to LTR/Copia elements, truncates to the first element entry in .bed
-    # cat Sbicolor_454_v3.0.1.bed | cut -d, -f11 | grep "LTR/Copia" > truncated.bed
-    
-    # 
-    cat Sbicolor_454_v3.0.1.bed > truncated.bed
-    
-    # Removes asterisk characters
-    tr -d '*' < truncated.bed > Sbicolor_truncated_rmchar.bed
-    
-    # Converts .bed coordinates from .bed to fasta
-    bedtools getfasta -fi $SORGUM_REF -name -bed Sbicolor_truncated_rmchar.bed > Sbicolor_454_v3.0.1_TE_truncated.fa
-    
-    sed 's/::.*//' Sbicolor_454_v3.0.1_TE_truncated.fa > Sbicolor_454_v3.0.1_TE_truncated_format.fa
-    
-    # Outputs fasta entries into .txt file
-    grep -e ">" Sbicolor_454_v3.0.1_TE_truncated_format.fa | awk 'sub(/^>/, "")' >> TE_list.txt
+- To perform TE insertion detection we need the following files:
+  1. Reference fasta
+  2. Reference geneome .out file from RepeatMasker (TEs)
+  3. Installed pre-req’d packages.
+- Running the following commands will generate the required files for analysis:
 
+ 
 
-**Detect TE insertions**
+```    bash
+# Change directory to working directory of TEFinder
+cd /users/sburkes/bin/TEfinder
+    
+# Location of the reference genome fasta file
+SORGUM_REF='/scratch/sburkes/Sorghum/Sbicolor_454_v3.0.1.fa'
+    
+# Removes simple repeats from RepeatMasker .out
+grep -v -iE '(Motif\:[ATGC]+\-rich)|(Motif\:\([ATGC]+\)n)' /scratch/sburkes/Results/results_Sbicolor_454_v3/repeatmasker_out/Sbicolor_454_v3.0.1.fa.out > TEs.gtf
+    
+# Converts .out from RepeatMasker into .bed file.
+rmsk2bed < TEs.gtf bedops --merge - > Sbicolor_454_v3.0.1.bed
+    
+## Commented out 08/12/21 - Limits to LTR/Copia elements, truncates to the first element entry in .bed
 
-1. Once the setup and gathering of files is complete, we can proceed with the discovery of non-reference TE insertions using the following script:
-    # Change directory to working directory of TEFinder
-    cd /users/sburkes/bin/TEfinder
+# cat Sbicolor_454_v3.0.1.bed | cut -d, -f11 | grep "LTR/Copia" > truncated.bed
     
-    # Execute TEFinder script with prior generated files
-    bash /users/sburkes/bin/TEfinder/TEfinder -alignment $f -fa /scratch/sburkes/Sorghum/Sbicolor_454_v3.0.1.fa -gtf /scratch/sburkes/Results/results_Sbicolor_454_v3/repeatmasker_out/Sbicolor_454_v3.0.1.fa.out.gff -te /users/sburkes/bin/TEfinder/TE_list.txt
+cat Sbicolor_454_v3.0.1.bed > truncated.bed
     
-    # For the sake of time, this can be looped like so:
-    # Running TEfinder interactively in bash
-    for f in /projects/cooper_research1/Wild_Sorghum_WGS/bam_wild/G*.bam; do
-        name=$(basename $f| cut -f1 -d'.')
-        printf $name
-        mkdir $name
-        cd $name
+# Removes asterisk characters
+tr -d '*' < truncated.bed > Sbicolor_truncated_rmchar.bed
     
-        # Cluster submission using Slurm
-        sbatch -t '72:00:00' -N 1 --mem=48gb --ntasks-per-node=32 -o $name'_TIP'.%j --wrap="bash /users/sburkes/bin/TEfinder/TEfinder -alignment $f -fa /scratch/sburkes/Sorghum/Sbicolor_454_v3.0.1.fa -gtf /scratch/sburkes/Results/results_Sbicolor_454_v3/repeatmasker_out/Sbicolor_454_v3.0.1.fa.out.gff -te /users/sburkes/bin/TEfinder/TE_list.txt"
+# Converts .bed coordinates from .bed to fasta
+bedtools getfasta -fi $SORGUM_REF -name -bed Sbicolor_truncated_rmchar.bed > Sbicolor_454_v3.0.1_TE_truncated.fa
     
-        # Single run
-        # bash ~/bin/TEfinder/TEfinder -alignment $f -fa /scratch/sburkes/Sorghum/Sbicolor_454_v3.0.1.fa -gtf /scratch/sburkes/Results/results_Sbicolor_454_v3/repeatmasker_out/Sbicolor_454_v3.0.1.fa.out.gff -te ~/bin/TEfinder/TE_list.txt
-        # Complete run output
-        # echo 'Analysis Complete. Runtime below:'
-        # echo $start
-        # echo $end
+sed 's/::.*//' Sbicolor_454_v3.0.1_TE_truncated.fa > Sbicolor_454_v3.0.1_TE_truncated_format.fa
     
-        cd ..
+# Outputs fasta entries into .txt file
+grep -e ">" Sbicolor_454_v3.0.1_TE_truncated_format.fa | awk 'sub(/^>/, "")' >> TE_list.txt
+        
+```
+
+## Detect TE insertions
+
+Once the setup and gathering of files is complete, we can proceed with the discovery of non-reference TE insertions using the following script:
+
+```bash
+# Change directory to working directory of TEFinder
+cd /users/sburkes/bin/TEfinder
+
+# Execute TEFinder script with prior generated files
+bash /users/sburkes/bin/TEfinder/TEfinder -alignment $f -fa /scratch/sburkes/Sorghum/Sbicolor_454_v3.0.1.fa -gtf /scratch/sburkes/Results/results_Sbicolor_454_v3/repeatmasker_out/Sbicolor_454_v3.0.1.fa.out.gff -te /users/sburkes/bin/TEfinder/TE_list.txt
+
+# For the sake of time, this can be looped like so:
+# Running TEfinder interactively in bash
+for f in /projects/cooper_research1/Wild_Sorghum_WGS/bam_wild/G*.bam; do
+    name=$(basename $f| cut -f1 -d'.')
+    printf $name
+    mkdir $name
+    cd $name
+
+  # Cluster submission using Slurm
+  sbatch -t '72:00:00' -N 1 --mem=48gb --ntasks-per-node=32 -o $name'_TIP'.%j --wrap="bash /users/sburkes/bin/TEfinder/TEfinder -alignment $f -fa /scratch/sburkes/Sorghum/Sbicolor_454_v3.0.1.fa -gtf /scratch/sburkes/Results/results_Sbicolor_454_v3/repeatmasker_out/Sbicolor_454_v3.0.1.fa.out.gff -te /users/sburkes/bin/TEfinder/TE_list.txt"
+    cd ..
     done
+
+```
+
 
 
 
@@ -120,3 +121,7 @@ Picard
     dev.off()
 - **Calculate Gene Density Per Kb And Plot Density Over Position For All Scaffolds Of A Draft Genome Using R**
 
+
+```
+
+```
