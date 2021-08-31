@@ -1,6 +1,6 @@
 # TIPs Detection Workflow in Sorghum
 
-## Pre-reqs
+## Pre-requisites
 
 - Rmsk2bed
 - Bedtools
@@ -49,7 +49,7 @@ grep -e ">" Sbicolor_454_v3.0.1_TE_truncated_format.fa | awk 'sub(/^>/, "")' >> 
         
 ```
 
-## Detect TE insertions
+### Detecting TE insertions
 
 Once the setup and gathering of files is complete, we can proceed with the discovery of non-reference TE insertions using the following script:
 
@@ -77,8 +77,7 @@ for f in /projects/cooper_research1/Wild_Sorghum_WGS/bam_wild/G*.bam; do
 
 
 
-
-## Analysis
+## Analysis & Visualizations
 To derive characteristics about detected  insertion sites, we're using a mix of bash and python with the pandas module (Last update:  8/31 7:38pm):
 
 
