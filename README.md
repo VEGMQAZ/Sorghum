@@ -40,3 +40,4 @@ GWAS have historically focused on association studies of SNPs and indels; Consid
 
 ![img](/img/02.png)
 
+Code, details and additonal READMEs of each portion of analysis will be located in the `TIP_Analysis ` sub-directory of the repository.
