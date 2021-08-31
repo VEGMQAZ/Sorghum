@@ -33,3 +33,10 @@ Site duplications vary in size and components, depending on the superfamily of T
 GWAS have historically focused on association studies of SNPs and indels; Consideration of larger structural variations, which tend to occur at lower frequencies.
 
 - “Numerous domestication and agronomic traits have been associated with particular TE insertions, the specific contribution of TEs to the phenotypic diversification of crop species is poorly documented” — *(Domínguez, 2020)*
+
+
+
+## Visual Outline of TIP Detection in Sorghum
+
+![img](/img/02.png)
+
