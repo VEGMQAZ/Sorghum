@@ -1,6 +1,6 @@
 # TIPs Detection Workflow in Sorghum
 
-## Pre-requisites
+## Prerequisites
 
 - Bedtools
 - Bedops
