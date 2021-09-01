@@ -143,3 +143,8 @@ png("tips_density(1Mbin).png",width=1500,height=1000)
 print(plottedTips)
 ```
 
+
+
+### TIPs Density (1Mb Bin) - Preliminary
+
+![img](/img/tips_density(1Mbin).png)
