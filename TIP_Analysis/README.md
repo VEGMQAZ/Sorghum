@@ -100,23 +100,16 @@ done
 ## Analysis & Visualizations
 ### Value Counts of Insertions
 
-To derive characteristics about detected  insertion sites, we're using a mix of bash and python with the pandas module (Last update:  8/31 7:38pm):
+To derive characteristics about detected  insertion sites, we're using bash (Last update:  9/1 12:12pm):
 
 
-```R
-# Aggregate insertion site bed files
-cat *sites.bed > /nobackup/cooper_research/Shel/TIP_Analysis/merged_insertion-sites.bed
-
-# Import libraries and bed file.
-import pandas as pd
-sb = pd.read_csv('Sbicolor_454_v3.0.1.bed', delimiter='\t', index_col=False, names=['Chromosome', 'Start','Stop', 'ID',5,6,7,8,9,10,'Superfamily',12,13,14])
-
-# Get value_counts of unique TE superfamilies
-sb['Superfamily'].value_counts()
+```python
+# Example Count of Insertion for Grif16309
+cat /projects/cooper_research1/TIP_Analysis/Results/COPIA/Grif16309/TEfinder_*/TE*.bed | cut -f 4 | uniq | wc -l
 
 
 # Formatted .bed for density visualization
-
+cat /projects/cooper_research1/TIP_Analysis/Results/COPIA/Grif16309/TEfinder_*/TE*.bed | cut -f 1,2 > TE_density.bed
 ```
 
 
@@ -134,9 +127,9 @@ if("ggplot2" %in% rownames(installed.packages())){
 }
     
 # Import a text file with gene positions
-# Column Headers: Chr, Position (No end or Gene name required)
+# Column Headers: Chr, Strt (No end or Gene name required)
 
-genes <- read.table("genes.txt",sep="\t",header=T)
+genes <- read.table("Grif16309_density.bed",sep="\t",header=T)
     
 # make sure the chromosomes are ordered in the way you want them to appear in the plot
 
