@@ -18,33 +18,58 @@
  
 
 ```    bash
-# Change directory to working directory of TEFinder
-cd /users/sburkes/bin/TEfinder
-    
-# Location of the reference genome fasta file
-SORGUM_REF='/scratch/sburkes/Sorghum/Sbicolor_454_v3.0.1.fa'
-    
+#! /usr/bin/env bash
+# set -x # Verbose testing outputs
+
+# Loads necessary modules on Slurm
+module load samtools
+module load bedtools2
+module load picard
+
+# Load executable dependencies
+PATH=$PATH$( find /projects/cooper_research1/TIP_Analysis/bin -type d -printf ":%p" )
+
+# Changes to working directory
+cd /projects/cooper_research1/TIP_Analysis/bin/TEfinder
+
+# Sets variable of genome
+SORGUM_REF='/projects/cooper_research1/TIP_Analysis/SorghumRefAnnot/Sbicolor_454_v3.0.1.fa'
+REP_OUT='/projects/cooper_research1/TIP_Analysis/RepeatAnalysis/results_Sbicolor_454_v3/repeatmasker_out/Sbicolor_454_v3.0.1.fa.out'
+
 # Removes simple repeats from RepeatMasker .out
-grep -v -iE '(Motif\:[ATGC]+\-rich)|(Motif\:\([ATGC]+\)n)' /scratch/sburkes/Results/results_Sbicolor_454_v3/repeatmasker_out/Sbicolor_454_v3.0.1.fa.out > TEs.gtf
-    
+grep -v -iE '(Motif\:[ATGC]+\-rich)|(Motif\:\([ATGC]+\)n)' $REP_OUT > TEs.gtf
+TE_REF='/projects/cooper_research1/TIP_Analysis/bin/TEfinder/TEs.gtf'
+
 # Converts .out from RepeatMasker into .bed file.
 rmsk2bed < TEs.gtf bedops --merge - > Sbicolor_454_v3.0.1.bed
-    
-## Commented out 08/12/21 - Limits to LTR/Copia elements, truncates to the first element entry in .bed
-# cat Sbicolor_454_v3.0.1.bed | cut -d, -f11 | grep "LTR/Copia" > truncated.bed
-    
-cat Sbicolor_454_v3.0.1.bed > truncated.bed
-    
+
+# # # #
+## Commented out 08/12/21
+## Limits to LTR/Copia elements, truncates to the first element entry in .bed
+cat Sbicolor_454_v3.0.1.bed | cut -d, -f11 | grep "LTR/Copia" | head -10 > truncated.bed
+# # # #
+
+# cat Sbicolor_454_v3.0.1.bed > truncated.bed
+
 # Removes asterisk characters
 tr -d '*' < truncated.bed > Sbicolor_truncated_rmchar.bed
-    
-# Converts .bed coordinates from .bed to fasta
+
+# Converts coordinates from .bed to fasta
 bedtools getfasta -fi $SORGUM_REF -name -bed Sbicolor_truncated_rmchar.bed > Sbicolor_454_v3.0.1_TE_truncated.fa
-    
+
+# Removes special characters (::) from bedtools-generated fasta
 sed 's/::.*//' Sbicolor_454_v3.0.1_TE_truncated.fa > Sbicolor_454_v3.0.1_TE_truncated_format.fa
-    
+
 # Outputs fasta entries into .txt file
 grep -e ">" Sbicolor_454_v3.0.1_TE_truncated_format.fa | awk 'sub(/^>/, "")' >> TE_list.txt
+TE_LIST='/projects/cooper_research1/TIP_Analysis/bin/TEfinder/TE_list.txt'
+
+
+## Cleanup of intermediate files
+rm -r truncated.bed
+rm -r Sbicolor_truncated_rmchar.bed
+rm -r Sbicolor_454_v3.0.1_TE_truncated_format.fa
+rm -r Sbicolor_454_v3.0.1_TE_truncated.fa
         
 ```
 
@@ -53,25 +78,20 @@ grep -e ">" Sbicolor_454_v3.0.1_TE_truncated_format.fa | awk 'sub(/^>/, "")' >> 
 Once the setup and gathering of files is complete, we can proceed with the discovery of non-reference TE insertions using the following script:
 
 ```bash
-# Change directory to working directory of TEFinder
-cd /users/sburkes/bin/TEfinder
-
-# Execute TEFinder script with prior generated files
-bash /users/sburkes/bin/TEfinder/TEfinder -alignment $f -fa /scratch/sburkes/Sorghum/Sbicolor_454_v3.0.1.fa -gtf /scratch/sburkes/Results/results_Sbicolor_454_v3/repeatmasker_out/Sbicolor_454_v3.0.1.fa.out.gff -te /users/sburkes/bin/TEfinder/TE_list.txt
-
-# For the sake of time, this can be looped like so:
-# Running TEfinder interactively in bash
+## Running TEfinder interactively in bash
 for f in /projects/cooper_research1/Wild_Sorghum_WGS/bam_wild/G*.bam; do
     name=$(basename $f| cut -f1 -d'.')
-    printf $name
     mkdir $name
     cd $name
 
-  # Cluster submission using Slurm
-  sbatch -t '72:00:00' -N 1 --mem=48gb --ntasks-per-node=32 -o $name'_TIP'.%j --wrap="bash /users/sburkes/bin/TEfinder/TEfinder -alignment $f -fa /scratch/sburkes/Sorghum/Sbicolor_454_v3.0.1.fa -gtf /scratch/sburkes/Results/results_Sbicolor_454_v3/repeatmasker_out/Sbicolor_454_v3.0.1.fa.out.gff -te /users/sburkes/bin/TEfinder/TE_list.txt"
-    cd ..
-    done
+    # Cluster submission using Slurm
+    sbatch -t '168:00:00' -N 1 --mem=48gb --ntasks-per-node=32 -o $name'_TIP'.%j --wrap="bash /projects/cooper_research1/TIP_Analysis/bin/TEfinder/TEfinder -alignment $f -fa $SORGUM_REF -gtf $TE_REF -te $TE_LIST"
 
+## Single run - Not advisable for efficiency
+# bash ~/bin/TEfinder/TEfinder -alignment $f -fa /scratch/sburkes/Sorghum/Sbicolor_454_v3.0.1.fa -gtf /scratch/sburkes/Results/results_Sbicolor_454_v3/repeatmasker_out/Sbicolor_454_v3.0.1.fa.out.gff -te ~/bin/TEfinder/TE_list.txt
+
+    cd ..
+done
 ```
 
 
