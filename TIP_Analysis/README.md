@@ -145,6 +145,6 @@ print(plottedTips)
 
 
 
-### TIPs Density (1Mb Bin) - Preliminary
+### TIPs Density *(Preliminary)*
 
 ![img](/img/tips_density(1Mbin).png)
