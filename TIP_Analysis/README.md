@@ -109,7 +109,7 @@ cat /projects/cooper_research1/TIP_Analysis/Results/COPIA/Grif16309/TEfinder_*/T
 
 
 # Formatted .bed for density visualization
-cat /projects/cooper_research1/TIP_Analysis/Results/COPIA/Grif16309/TEfinder_*/TE*.bed | cut -f 1,2 > TE_density.bed
+cat /projects/cooper_research1/TIP_Analysis/Results/COPIA/Grif16309/TEfinder_*/TE*.bed | cut -f 1,2,3 > TE_density.bed
 ```
 
 

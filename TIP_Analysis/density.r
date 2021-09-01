@@ -14,14 +14,22 @@ if("circlize" %in% rownames(installed.packages())){
   library(circlize)
 }
 
+if("dplyr" %in% rownames(installed.packages())){
+  library(dplyr)
+} else {
+  install.packages("dplyr")
+  library(dplyr)
+}
+
 
 # Import a text file with gene positions // Column Headers: Chr, Start (No end or Gene name required)
 tips <- read.table("/Users/shelvasha/Grif16309/TEfinder_20210726224912/TE_density.bed",sep="\t",header=T)
-colnames(tips)[1:2] <- c("Chr","Start")
+colnames(tips)[1:3] <- c("Chr","Start","End")
 
+tips <- tips %>% filter(grepl('Chr', Chr))
 
-# Orders chromosomes to appear properly in the plot
-tips$Chr <- with(tips, factor(Chr, levels=paste("chr",c(1:22,"X","Y"),sep=""), ordered=TRUE))
+## Orders chromosomes to appear properly in the plot
+# tips$Chr <- with(tips, factor(Chr, levels=paste("chr",c(1:10),sep=""), ordered=TRUE))
 
 
 # Creates density plot of genes over the provided chromosomes (or scaffolds ...)
@@ -31,3 +39,13 @@ plottedTips
 # Save it to an image
 png("tips_density(1Mbin).png",width=1500,height=1000)
 print(plottedTips)
+
+
+
+circos.initializeWithIdeogram()
+circos.genomicTrackPlotRegion(tips, panel.fun = function(region, value, ...) {
+  if(CELL_META$sector.index == "Chr01") {
+    print(head(region, n = 2))
+    print(head(value, n = 2))
+  }
+})

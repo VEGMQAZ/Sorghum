@@ -1,6 +1,6 @@
 ## Introduction
 
-Sorghum is a widely grown cereal crop originating from Africa.Five primary landraces: *durra*, *guinea*, *caudatum*, *kafir*, and *bicolor* (*BTx623*)Traits: *Heat tolerant, drought tolerant, and nitrogen efficient*. A very diverse species with various uses ranging from consumption by humans and livestock, to biomass.
+Sorghum is a widely grown cereal crop originating from Africa. Five primary landraces: *durra*, *guinea*, *caudatum*, *kafir*, and *bicolor* (*BTx623*)Traits: *Heat tolerant, drought tolerant, and nitrogen efficient*. A very diverse species with various uses ranging from consumption by humans and livestock, to biomass.
 
 ## Motivation
 
