@@ -87,8 +87,9 @@ for f in /projects/cooper_research1/Wild_Sorghum_WGS/bam_wild/G*.bam; do
     # Cluster submission using Slurm
     sbatch -t '168:00:00' -N 1 --mem=48gb --ntasks-per-node=32 -o $name'_TIP'.%j --wrap="bash /projects/cooper_research1/TIP_Analysis/bin/TEfinder/TEfinder -alignment $f -fa $SORGUM_REF -gtf $TE_REF -te $TE_LIST"
 
-## Single run - Not advisable for efficiency
-# bash ~/bin/TEfinder/TEfinder -alignment $f -fa /scratch/sburkes/Sorghum/Sbicolor_454_v3.0.1.fa -gtf /scratch/sburkes/Results/results_Sbicolor_454_v3/repeatmasker_out/Sbicolor_454_v3.0.1.fa.out.gff -te ~/bin/TEfinder/TE_list.txt
+
+## Single run - Not advisable for efficiency; Ex.) Alignment of Grif16309
+# bash /projects/cooper_research1/TIP_Analysis/bin/TEfinder/TEfinder -alignment /projects/cooper_research1/Wild_Sorghum_WGS/bam_wild/Grif16309.sort.rg.bam -fa $SORGUM_REF -gtf $TE_REF -te $TE_LIST
 
     cd ..
 done
