@@ -2,7 +2,6 @@
 
 ## Pre-requisites
 
-- Rmsk2bed
 - Bedtools
 - Bedops
 - Samtools
@@ -78,6 +77,8 @@ for f in /projects/cooper_research1/Wild_Sorghum_WGS/bam_wild/G*.bam; do
 
 
 ## Analysis & Visualizations
+### Value Counts of Insertions
+
 To derive characteristics about detected  insertion sites, we're using a mix of bash and python with the pandas module (Last update:  8/31 7:38pm):
 
 
@@ -91,6 +92,10 @@ sb = pd.read_csv('Sbicolor_454_v3.0.1.bed', delimiter='\t', index_col=False, nam
 
 # Get value_counts of unique TE superfamilies
 sb['Superfamily'].value_counts()
+
+
+# Formatted .bed for density visualization
+
 ```
 
 
@@ -108,7 +113,7 @@ if("ggplot2" %in% rownames(installed.packages())){
 }
     
 # Import a text file with gene positions
-# Column Headers: Chr, Position (no end or gene name required)
+# Column Headers: Chr, Position (No end or Gene name required)
 
 genes <- read.table("genes.txt",sep="\t",header=T)
     
