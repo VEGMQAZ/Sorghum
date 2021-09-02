@@ -105,11 +105,20 @@ To derive characteristics about detected  insertion sites, we're using bash (Las
 
 ```python
 # Example Count of Insertion for Grif16309
-cat /projects/cooper_research1/TIP_Analysis/Results/COPIA/Grif16309/TEfinder_*/TE*.bed | cut -f 4 | uniq | wc -l
+cat /projects/cooper_research1/TIP_Analysis/Results/COPIA/Grif16309/TEfinder_*/TE*.bed | tail -n +2 | cut -f 4 | uniq | wc -l
 
 
 # Formatted .bed for density visualization
-cat /projects/cooper_research1/TIP_Analysis/Results/COPIA/Grif16309/TEfinder_*/TE*.bed | cut -f 1,2,3 > TE_density.bed
+cat /projects/cooper_research1/TIP_Analysis/Results/COPIA/Grif16309/TEfinder_*/TE*.bed | tail -n +2 | cut -f 1,2,3 | cut -d, -f11 | grep -v "==" | sort > TE_density.bed
+
+
+# Generate .genome
+samtools view -H DiscordantReads.bam | grep @SQ|sed 's/@SQ\tSN:\|LN://g' > genome.txt
+
+# Get insertion coverage
+bedtools genomecov -i /projects/cooper_research1/TIP_Analysis/Results/COPIA/Grif16309/TEfinder_20210726224912/TE_density.bed -g genome.txt > coverage.genome
+
+
 ```
 
 
